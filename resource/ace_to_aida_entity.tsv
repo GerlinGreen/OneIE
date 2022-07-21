@@ -1,0 +1,12 @@
+PER	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#Person
+ORG	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#Organization
+GPE	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#GeopoliticalEntity
+LOC	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#Location
+FAC	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#Facility
+WEA	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#Weapon
+VEH	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#Vehicle
+TME	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#Time
+TTL	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#Title
+VAL	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#NumericalValue
+MON	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#Money
+URL	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#URL

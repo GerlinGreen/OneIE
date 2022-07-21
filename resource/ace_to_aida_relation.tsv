@@ -1,0 +1,6 @@
+ORG-AFF	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#OrganizationAffiliation
+ART	Artifact
+GEN-AFF	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#GeneralAffiliation
+PART-WHOLE	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#PartWhole
+PHYS	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#Physical
+PER-SOC	https://tac.nist.gov/tracks/SM-KBP/2018/ontologies/SeedlingOntology#PersonalSocial

@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LCTL_TEXT SYSTEM "ltf.v1.5.dtd">
+<LCTL_TEXT lang="rus">
+<DOC id="HC0003PYD" lang="rus" tokenization="tokenization_parameters.v5.0" grammar="none" raw_text_char_length="5770" raw_text_md5="c32e0a9668d870dde567f8683e4452f8">
+<TEXT>
+<SEG id="segment-0" start_char="1" end_char="48">
+<ORIGINAL_TEXT>Obama Ignores North Korea in Address to Congress</ORIGINAL_TEXT>
+<TOKEN id="token-0-0" pos="word" morph="none" start_char="1" end_char="5">Obama</TOKEN>
+<TOKEN id="token-0-1" pos="word" morph="none" start_char="7" end_char="13">Ignores</TOKEN>
+<TOKEN id="token-0-2" pos="word" morph="none" start_char="15" end_char="19">North</TOKEN>
+<TOKEN id="token-0-3" pos="word" morph="none" start_char="21" end_char="25">Korea</TOKEN>
+<TOKEN id="token-0-4" pos="word" morph="none" start_char="27" end_char="28">in</TOKEN>
+<TOKEN id="token-0-5" pos="word" morph="none" start_char="30" end_char="36">Address</TOKEN>
+<TOKEN id="token-0-6" pos="word" morph="none" start_char="38" end_char="39">to</TOKEN>
+<TOKEN id="token-0-7" pos="word" morph="none" start_char="41" end_char="48">Congress</TOKEN>
+</SEG>
+<SEG id="segment-1" start_char="52" end_char="157">
+<ORIGINAL_TEXT>FILE - North Korean leader Kim Jong Un gestures as he watches a military parade in Pyongyang, North Korea.</ORIGINAL_TEXT>
+<TOKEN id="token-1-0" pos="word" morph="none" start_char="52" end_char="55">FILE</TOKEN>
+<TOKEN id="token-1-1" pos="punct" morph="none" start_char="57" end_char="57">-</TOKEN>
+<TOKEN id="token-1-2" pos="word" morph="none" start_char="59" end_char="63">North</TOKEN>
+<TOKEN id="token-1-3" pos="word" morph="none" start_char="65" end_char="70">Korean</TOKEN>
+<TOKEN id="token-1-4" pos="word" morph="none" start_char="72" end_char="77">leader</TOKEN>
+<TOKEN id="token-1-5" pos="word" morph="none" start_char="79" end_char="81">Kim</TOKEN>
+<TOKEN id="token-1-6" pos="word" morph="none" start_char="83" end_char="86">Jong</TOKEN>
+<TOKEN id="token-1-7" pos="word" morph="none" start_char="88" end_char="89">Un</TOKEN>
+<TOKEN id="token-1-8" pos="word" morph="none" start_char="91" end_char="98">gestures</TOKEN>
+<TOKEN id="token-1-9" pos="word" morph="none" start_char="100" end_char="101">as</TOKEN>
+<TOKEN id="token-1-10" pos="word" morph="none" start_char="103" end_char="104">he</TOKEN>
+<TOKEN id="token-1-11" pos="word" morph="none" start_char="106" end_char="112">watches</TOKEN>
+<TOKEN id="token-1-12" pos="word" morph="none" start_char="114" end_char="114">a</TOKEN>
+<TOKEN id="token-1-13" pos="word" morph="none" start_char="116" end_char="123">military</TOKEN>
+<TOKEN id="token-1-14" pos="word" morph="none" start_char="125" end_char="130">parade</TOKEN>
+<TOKEN id="token-1-15" pos="word" morph="none" start_char="132" end_char="133">in</TOKEN>
+<TOKEN id="token-1-16" pos="word" morph="none" start_char="135" end_char="143">Pyongyang</TOKEN>
+<TOKEN id="token-1-17" pos="punct" morph="none" start_char="144" end_char="144">,</TOKEN>
+<TOKEN id="token-1-18" pos="word" morph="none" start_char="146" end_char="150">North</TOKEN>
+<TOKEN id="token-1-19" pos="word" morph="none" start_char="152" end_char="156">Korea</TOKEN>
+<TOKEN id="token-1-20" pos="punct" morph="none" start_char="157" end_char="157">.</TOKEN>
+</SEG>
+<SEG id="segment-2" start_char="161" end_char="165">
+<ORIGINAL_TEXT>SEOUL</ORIGINAL_TEXT>
+<TOKEN id="token-2-0" pos="word" morph="none" start_char="161" end_char="165">SEOUL</TOKEN>
+</SEG>
+<SEG id="segment-3" start_char="168" end_char="363">
+<ORIGINAL_TEXT>Of the many foreign policy challenges confronting the United States, North Korea's recent nuclear test was not among those mentioned in President Barack Obama's State of the Union address Tuesday.</ORIGINAL_TEXT>
+<TOKEN id="token-3-0" pos="word" morph="none" start_char="168" end_char="169">Of</TOKEN>
+<TOKEN id="token-3-1" pos="word" morph="none" start_char="171" end_char="173">the</TOKEN>
+<TOKEN id="token-3-2" pos="word" morph="none" start_char="175" end_char="178">many</TOKEN>
+<TOKEN id="token-3-3" pos="word" morph="none" start_char="180" end_char="186">foreign</TOKEN>
+<TOKEN id="token-3-4" pos="word" morph="none" start_char="188" end_char="193">policy</TOKEN>
+<TOKEN id="token-3-5" pos="word" morph="none" start_char="195" end_char="204">challenges</TOKEN>
+<TOKEN id="token-3-6" pos="word" morph="none" start_char="206" end_char="216">confronting</TOKEN>
+<TOKEN id="token-3-7" pos="word" morph="none" start_char="218" end_char="220">the</TOKEN>
+<TOKEN id="token-3-8" pos="word" morph="none" start_char="222" end_char="227">United</TOKEN>
+<TOKEN id="token-3-9" pos="word" morph="none" start_char="229" end_char="234">States</TOKEN>
+<TOKEN id="token-3-10" pos="punct" morph="none" start_char="235" end_char="235">,</TOKEN>
+<TOKEN id="token-3-11" pos="word" morph="none" start_char="237" end_char="241">North</TOKEN>
+<TOKEN id="token-3-12" pos="word" morph="none" start_char="243" end_char="249">Korea's</TOKEN>
+<TOKEN id="token-3-13" pos="word" morph="none" start_char="251" end_char="256">recent</TOKEN>
+<TOKEN id="token-3-14" pos="word" morph="none" start_char="258" end_char="264">nuclear</TOKEN>
+<TOKEN id="token-3-15" pos="word" morph="none" start_char="266" end_char="269">test</TOKEN>
+<TOKEN id="token-3-16" pos="word" morph="none" start_char="271" end_char="273">was</TOKEN>
+<TOKEN id="token-3-17" pos="word" morph="none" start_char="275" end_char="277">not</TOKEN>
+<TOKEN id="token-3-18" pos="word" morph="none" start_char="279" end_char="283">among</TOKEN>
+<TOKEN id="token-3-19" pos="word" morph="none" start_char="285" end_char="289">those</TOKEN>
+<TOKEN id="token-3-20" pos="word" morph="none" start_char="291" end_char="299">mentioned</TOKEN>
+<TOKEN id="token-3-21" pos="word" morph="none" start_char="301" end_char="302">in</TOKEN>
+<TOKEN id="token-3-22" pos="word" morph="none" start_char="304" end_char="312">President</TOKEN>
+<TOKEN id="token-3-23" pos="word" morph="none" start_char="314" end_char="319">Barack</TOKEN>
+<TOKEN id="token-3-24" pos="word" morph="none" start_char="321" end_char="327">Obama's</TOKEN>
+<TOKEN id="token-3-25" pos="word" morph="none" start_char="329" end_char="333">State</TOKEN>
+<TOKEN id="token-3-26" pos="word" morph="none" start_char="335" end_char="336">of</TOKEN>
+<TOKEN id="token-3-27" pos="word" morph="none" start_char="338" end_char="340">the</TOKEN>
+<TOKEN id="token-3-28" pos="word" morph="none" start_char="342" end_char="346">Union</TOKEN>
+<TOKEN id="token-3-29" pos="word" morph="none" start_char="348" end_char="354">address</TOKEN>
+<TOKEN id="token-3-30" pos="word" morph="none" start_char="356" end_char="362">Tuesday</TOKEN>
+<TOKEN id="token-3-31" pos="punct" morph="none" start_char="363" end_char="363">.</TOKEN>
+</SEG>
+<SEG id="segment-4" start_char="366" end_char="570">
+<ORIGINAL_TEXT>U.S. foreign policys top priority, he said, must be dealing with threats from failing states in the Middle East, Afghanistan and Pakistan, and the terror networks that have grown in that part of the world.</ORIGINAL_TEXT>
+<TOKEN id="token-4-0" pos="unknown" morph="none" start_char="366" end_char="368">U.S</TOKEN>
+<TOKEN id="token-4-1" pos="punct" morph="none" start_char="369" end_char="369">.</TOKEN>
+<TOKEN id="token-4-2" pos="word" morph="none" start_char="371" end_char="377">foreign</TOKEN>
+<TOKEN id="token-4-3" pos="word" morph="none" start_char="379" end_char="385">policys</TOKEN>
+<TOKEN id="token-4-4" pos="word" morph="none" start_char="387" end_char="389">top</TOKEN>
+<TOKEN id="token-4-5" pos="word" morph="none" start_char="391" end_char="398">priority</TOKEN>
+<TOKEN id="token-4-6" pos="punct" morph="none" start_char="399" end_char="399">,</TOKEN>
+<TOKEN id="token-4-7" pos="word" morph="none" start_char="401" end_char="402">he</TOKEN>
+<TOKEN id="token-4-8" pos="word" morph="none" start_char="404" end_char="407">said</TOKEN>
+<TOKEN id="token-4-9" pos="punct" morph="none" start_char="408" end_char="408">,</TOKEN>
+<TOKEN id="token-4-10" pos="word" morph="none" start_char="410" end_char="413">must</TOKEN>
+<TOKEN id="token-4-11" pos="word" morph="none" start_char="415" end_char="416">be</TOKEN>
+<TOKEN id="token-4-12" pos="word" morph="none" start_char="418" end_char="424">dealing</TOKEN>
+<TOKEN id="token-4-13" pos="word" morph="none" start_char="426" end_char="429">with</TOKEN>
+<TOKEN id="token-4-14" pos="word" morph="none" start_char="431" end_char="437">threats</TOKEN>
+<TOKEN id="token-4-15" pos="word" morph="none" start_char="439" end_char="442">from</TOKEN>
+<TOKEN id="token-4-16" pos="word" morph="none" start_char="444" end_char="450">failing</TOKEN>
+<TOKEN id="token-4-17" pos="word" morph="none" start_char="452" end_char="457">states</TOKEN>
+<TOKEN id="token-4-18" pos="word" morph="none" start_char="459" end_char="460">in</TOKEN>
+<TOKEN id="token-4-19" pos="word" morph="none" start_char="462" end_char="464">the</TOKEN>
+<TOKEN id="token-4-20" pos="word" morph="none" start_char="466" end_char="471">Middle</TOKEN>
+<TOKEN id="token-4-21" pos="word" morph="none" start_char="473" end_char="476">East</TOKEN>
+<TOKEN id="token-4-22" pos="punct" morph="none" start_char="477" end_char="477">,</TOKEN>
+<TOKEN id="token-4-23" pos="word" morph="none" start_char="479" end_char="489">Afghanistan</TOKEN>
+<TOKEN id="token-4-24" pos="word" morph="none" start_char="491" end_char="493">and</TOKEN>
+<TOKEN id="token-4-25" pos="word" morph="none" start_char="495" end_char="502">Pakistan</TOKEN>
+<TOKEN id="token-4-26" pos="punct" morph="none" start_char="503" end_char="503">,</TOKEN>
+<TOKEN id="token-4-27" pos="word" morph="none" start_char="505" end_char="507">and</TOKEN>
+<TOKEN id="token-4-28" pos="word" morph="none" start_char="509" end_char="511">the</TOKEN>
+<TOKEN id="token-4-29" pos="word" morph="none" start_char="513" end_char="518">terror</TOKEN>
+<TOKEN id="token-4-30" pos="word" morph="none" start_char="520" end_char="527">networks</TOKEN>
+<TOKEN id="token-4-31" pos="word" morph="none" start_char="529" end_char="532">that</TOKEN>
+<TOKEN id="token-4-32" pos="word" morph="none" start_char="534" end_char="537">have</TOKEN>
+<TOKEN id="token-4-33" pos="word" morph="none" start_char="539" end_char="543">grown</TOKEN>
+<TOKEN id="token-4-34" pos="word" morph="none" start_char="545" end_char="546">in</TOKEN>
+<TOKEN id="token-4-35" pos="word" morph="none" start_char="548" end_char="551">that</TOKEN>
+<TOKEN id="token-4-36" pos="word" morph="none" start_char="553" end_char="556">part</TOKEN>
+<TOKEN id="token-4-37" pos="word" morph="none" start_char="558" end_char="559">of</TOKEN>
+<TOKEN id="token-4-38" pos="word" morph="none" start_char="561" end_char="563">the</TOKEN>
+<TOKEN id="token-4-39" pos="word" morph="none" start_char="565" end_char="569">world</TOKEN>
+<TOKEN id="token-4-40" pos="punct" morph="none" start_char="570" end_char="570">.</TOKEN>
+</SEG>
+<SEG id="segment-5" start_char="573" end_char="782">
+<ORIGINAL_TEXT>North Korea analyst Victor Cha with the Washington D.C.-based Center for Strategic and International Studies said dealing with the growing nuclear threat from North Korea remains an issue of secondary interest.</ORIGINAL_TEXT>
+<TOKEN id="token-5-0" pos="word" morph="none" start_char="573" end_char="577">North</TOKEN>
+<TOKEN id="token-5-1" pos="word" morph="none" start_char="579" end_char="583">Korea</TOKEN>
+<TOKEN id="token-5-2" pos="word" morph="none" start_char="585" end_char="591">analyst</TOKEN>
+<TOKEN id="token-5-3" pos="word" morph="none" start_char="593" end_char="598">Victor</TOKEN>
+<TOKEN id="token-5-4" pos="word" morph="none" start_char="600" end_char="602">Cha</TOKEN>
+<TOKEN id="token-5-5" pos="word" morph="none" start_char="604" end_char="607">with</TOKEN>
+<TOKEN id="token-5-6" pos="word" morph="none" start_char="609" end_char="611">the</TOKEN>
+<TOKEN id="token-5-7" pos="word" morph="none" start_char="613" end_char="622">Washington</TOKEN>
+<TOKEN id="token-5-8" pos="unknown" morph="none" start_char="624" end_char="633">D.C.-based</TOKEN>
+<TOKEN id="token-5-9" pos="word" morph="none" start_char="635" end_char="640">Center</TOKEN>
+<TOKEN id="token-5-10" pos="word" morph="none" start_char="642" end_char="644">for</TOKEN>
+<TOKEN id="token-5-11" pos="word" morph="none" start_char="646" end_char="654">Strategic</TOKEN>
+<TOKEN id="token-5-12" pos="word" morph="none" start_char="656" end_char="658">and</TOKEN>
+<TOKEN id="token-5-13" pos="word" morph="none" start_char="660" end_char="672">International</TOKEN>
+<TOKEN id="token-5-14" pos="word" morph="none" start_char="674" end_char="680">Studies</TOKEN>
+<TOKEN id="token-5-15" pos="word" morph="none" start_char="682" end_char="685">said</TOKEN>
+<TOKEN id="token-5-16" pos="word" morph="none" start_char="687" end_char="693">dealing</TOKEN>
+<TOKEN id="token-5-17" pos="word" morph="none" start_char="695" end_char="698">with</TOKEN>
+<TOKEN id="token-5-18" pos="word" morph="none" start_char="700" end_char="702">the</TOKEN>
+<TOKEN id="token-5-19" pos="word" morph="none" start_char="704" end_char="710">growing</TOKEN>
+<TOKEN id="token-5-20" pos="word" morph="none" start_char="712" end_char="718">nuclear</TOKEN>
+<TOKEN id="token-5-21" pos="word" morph="none" start_char="720" end_char="725">threat</TOKEN>
+<TOKEN id="token-5-22" pos="word" morph="none" start_char="727" end_char="730">from</TOKEN>
+<TOKEN id="token-5-23" pos="word" morph="none" start_char="732" end_char="736">North</TOKEN>
+<TOKEN id="token-5-24" pos="word" morph="none" start_char="738" end_char="742">Korea</TOKEN>
+<TOKEN id="token-5-25" pos="word" morph="none" start_char="744" end_char="750">remains</TOKEN>
+<TOKEN id="token-5-26" pos="word" morph="none" start_char="752" end_char="753">an</TOKEN>
+<TOKEN id="token-5-27" pos="word" morph="none" start_char="755" end_char="759">issue</TOKEN>
+<TOKEN id="token-5-28" pos="word" morph="none" start_char="761" end_char="762">of</TOKEN>
+<TOKEN id="token-5-29" pos="word" morph="none" start_char="764" end_char="772">secondary</TOKEN>
+<TOKEN id="token-5-30" pos="word" morph="none" start_char="774" end_char="781">interest</TOKEN>
+<TOKEN id="token-5-31" pos="punct" morph="none" start_char="782" end_char="782">.</TOKEN>
+</SEG>
+<SEG id="segment-6" start_char="784" end_char="990">
+<ORIGINAL_TEXT>He said he does not expect Obama to change the current containment policy of strategic patience, nor does he expect any of the major presidential candidates to make North Korea a major issue in the campaign.</ORIGINAL_TEXT>
+<TOKEN id="token-6-0" pos="word" morph="none" start_char="784" end_char="785">He</TOKEN>
+<TOKEN id="token-6-1" pos="word" morph="none" start_char="787" end_char="790">said</TOKEN>
+<TOKEN id="token-6-2" pos="word" morph="none" start_char="792" end_char="793">he</TOKEN>
+<TOKEN id="token-6-3" pos="word" morph="none" start_char="795" end_char="798">does</TOKEN>
+<TOKEN id="token-6-4" pos="word" morph="none" start_char="800" end_char="802">not</TOKEN>
+<TOKEN id="token-6-5" pos="word" morph="none" start_char="804" end_char="809">expect</TOKEN>
+<TOKEN id="token-6-6" pos="word" morph="none" start_char="811" end_char="815">Obama</TOKEN>
+<TOKEN id="token-6-7" pos="word" morph="none" start_char="817" end_char="818">to</TOKEN>
+<TOKEN id="token-6-8" pos="word" morph="none" start_char="820" end_char="825">change</TOKEN>
+<TOKEN id="token-6-9" pos="word" morph="none" start_char="827" end_char="829">the</TOKEN>
+<TOKEN id="token-6-10" pos="word" morph="none" start_char="831" end_char="837">current</TOKEN>
+<TOKEN id="token-6-11" pos="word" morph="none" start_char="839" end_char="849">containment</TOKEN>
+<TOKEN id="token-6-12" pos="word" morph="none" start_char="851" end_char="856">policy</TOKEN>
+<TOKEN id="token-6-13" pos="word" morph="none" start_char="858" end_char="859">of</TOKEN>
+<TOKEN id="token-6-14" pos="word" morph="none" start_char="861" end_char="869">strategic</TOKEN>
+<TOKEN id="token-6-15" pos="word" morph="none" start_char="871" end_char="878">patience</TOKEN>
+<TOKEN id="token-6-16" pos="punct" morph="none" start_char="879" end_char="879">,</TOKEN>
+<TOKEN id="token-6-17" pos="word" morph="none" start_char="881" end_char="883">nor</TOKEN>
+<TOKEN id="token-6-18" pos="word" morph="none" start_char="885" end_char="888">does</TOKEN>
+<TOKEN id="token-6-19" pos="word" morph="none" start_char="890" end_char="891">he</TOKEN>
+<TOKEN id="token-6-20" pos="word" morph="none" start_char="893" end_char="898">expect</TOKEN>
+<TOKEN id="token-6-21" pos="word" morph="none" start_char="900" end_char="902">any</TOKEN>
+<TOKEN id="token-6-22" pos="word" morph="none" start_char="904" end_char="905">of</TOKEN>
+<TOKEN id="token-6-23" pos="word" morph="none" start_char="907" end_char="909">the</TOKEN>
+<TOKEN id="token-6-24" pos="word" morph="none" start_char="911" end_char="915">major</TOKEN>
+<TOKEN id="token-6-25" pos="word" morph="none" start_char="917" end_char="928">presidential</TOKEN>
+<TOKEN id="token-6-26" pos="word" morph="none" start_char="930" end_char="939">candidates</TOKEN>
+<TOKEN id="token-6-27" pos="word" morph="none" start_char="941" end_char="942">to</TOKEN>
+<TOKEN id="token-6-28" pos="word" morph="none" start_char="944" end_char="947">make</TOKEN>
+<TOKEN id="token-6-29" pos="word" morph="none" start_char="949" end_char="953">North</TOKEN>
+<TOKEN id="token-6-30" pos="word" morph="none" start_char="955" end_char="959">Korea</TOKEN>
+<TOKEN id="token-6-31" pos="word" morph="none" start_char="961" end_char="961">a</TOKEN>
+<TOKEN id="token-6-32" pos="word" morph="none" start_char="963" end_char="967">major</TOKEN>
+<TOKEN id="token-6-33" pos="word" morph="none" start_char="969" end_char="973">issue</TOKEN>
+<TOKEN id="token-6-34" pos="word" morph="none" start_char="975" end_char="976">in</TOKEN>
+<TOKEN id="token-6-35" pos="word" morph="none" start_char="978" end_char="980">the</TOKEN>
+<TOKEN id="token-6-36" pos="word" morph="none" start_char="982" end_char="989">campaign</TOKEN>
+<TOKEN id="token-6-37" pos="punct" morph="none" start_char="990" end_char="990">.</TOKEN>
+</SEG>
+<SEG id="segment-7" start_char="993" end_char="1140">
+<ORIGINAL_TEXT>Whoever comes into office about a year from now is going to be dealing with an exponentially worse problem than we are dealing with today, said Cha.</ORIGINAL_TEXT>
+<TOKEN id="token-7-0" pos="word" morph="none" start_char="993" end_char="999">Whoever</TOKEN>
+<TOKEN id="token-7-1" pos="word" morph="none" start_char="1001" end_char="1005">comes</TOKEN>
+<TOKEN id="token-7-2" pos="word" morph="none" start_char="1007" end_char="1010">into</TOKEN>
+<TOKEN id="token-7-3" pos="word" morph="none" start_char="1012" end_char="1017">office</TOKEN>
+<TOKEN id="token-7-4" pos="word" morph="none" start_char="1019" end_char="1023">about</TOKEN>
+<TOKEN id="token-7-5" pos="word" morph="none" start_char="1025" end_char="1025">a</TOKEN>
+<TOKEN id="token-7-6" pos="word" morph="none" start_char="1027" end_char="1030">year</TOKEN>
+<TOKEN id="token-7-7" pos="word" morph="none" start_char="1032" end_char="1035">from</TOKEN>
+<TOKEN id="token-7-8" pos="word" morph="none" start_char="1037" end_char="1039">now</TOKEN>
+<TOKEN id="token-7-9" pos="word" morph="none" start_char="1041" end_char="1042">is</TOKEN>
+<TOKEN id="token-7-10" pos="word" morph="none" start_char="1044" end_char="1048">going</TOKEN>
+<TOKEN id="token-7-11" pos="word" morph="none" start_char="1050" end_char="1051">to</TOKEN>
+<TOKEN id="token-7-12" pos="word" morph="none" start_char="1053" end_char="1054">be</TOKEN>
+<TOKEN id="token-7-13" pos="word" morph="none" start_char="1056" end_char="1062">dealing</TOKEN>
+<TOKEN id="token-7-14" pos="word" morph="none" start_char="1064" end_char="1067">with</TOKEN>
+<TOKEN id="token-7-15" pos="word" morph="none" start_char="1069" end_char="1070">an</TOKEN>
+<TOKEN id="token-7-16" pos="word" morph="none" start_char="1072" end_char="1084">exponentially</TOKEN>
+<TOKEN id="token-7-17" pos="word" morph="none" start_char="1086" end_char="1090">worse</TOKEN>
+<TOKEN id="token-7-18" pos="word" morph="none" start_char="1092" end_char="1098">problem</TOKEN>
+<TOKEN id="token-7-19" pos="word" morph="none" start_char="1100" end_char="1103">than</TOKEN>
+<TOKEN id="token-7-20" pos="word" morph="none" start_char="1105" end_char="1106">we</TOKEN>
+<TOKEN id="token-7-21" pos="word" morph="none" start_char="1108" end_char="1110">are</TOKEN>
+<TOKEN id="token-7-22" pos="word" morph="none" start_char="1112" end_char="1118">dealing</TOKEN>
+<TOKEN id="token-7-23" pos="word" morph="none" start_char="1120" end_char="1123">with</TOKEN>
+<TOKEN id="token-7-24" pos="word" morph="none" start_char="1125" end_char="1129">today</TOKEN>
+<TOKEN id="token-7-25" pos="punct" morph="none" start_char="1130" end_char="1130">,</TOKEN>
+<TOKEN id="token-7-26" pos="word" morph="none" start_char="1132" end_char="1135">said</TOKEN>
+<TOKEN id="token-7-27" pos="word" morph="none" start_char="1137" end_char="1139">Cha</TOKEN>
+<TOKEN id="token-7-28" pos="punct" morph="none" start_char="1140" end_char="1140">.</TOKEN>
+</SEG>
+<SEG id="segment-8" start_char="1143" end_char="1159">
+<ORIGINAL_TEXT>Bone numbing pain</ORIGINAL_TEXT>
+<TOKEN id="token-8-0" pos="word" morph="none" start_char="1143" end_char="1146">Bone</TOKEN>
+<TOKEN id="token-8-1" pos="word" morph="none" start_char="1148" end_char="1154">numbing</TOKEN>
+<TOKEN id="token-8-2" pos="word" morph="none" start_char="1156" end_char="1159">pain</TOKEN>
+</SEG>
+<SEG id="segment-9" start_char="1162" end_char="1260">
+<ORIGINAL_TEXT>Tensions on the Korean peninsula, however, continued to intensify this week, at least rhetorically.</ORIGINAL_TEXT>
+<TOKEN id="token-9-0" pos="word" morph="none" start_char="1162" end_char="1169">Tensions</TOKEN>
+<TOKEN id="token-9-1" pos="word" morph="none" start_char="1171" end_char="1172">on</TOKEN>
+<TOKEN id="token-9-2" pos="word" morph="none" start_char="1174" end_char="1176">the</TOKEN>
+<TOKEN id="token-9-3" pos="word" morph="none" start_char="1178" end_char="1183">Korean</TOKEN>
+<TOKEN id="token-9-4" pos="word" morph="none" start_char="1185" end_char="1193">peninsula</TOKEN>
+<TOKEN id="token-9-5" pos="punct" morph="none" start_char="1194" end_char="1194">,</TOKEN>
+<TOKEN id="token-9-6" pos="word" morph="none" start_char="1196" end_char="1202">however</TOKEN>
+<TOKEN id="token-9-7" pos="punct" morph="none" start_char="1203" end_char="1203">,</TOKEN>
+<TOKEN id="token-9-8" pos="word" morph="none" start_char="1205" end_char="1213">continued</TOKEN>
+<TOKEN id="token-9-9" pos="word" morph="none" start_char="1215" end_char="1216">to</TOKEN>
+<TOKEN id="token-9-10" pos="word" morph="none" start_char="1218" end_char="1226">intensify</TOKEN>
+<TOKEN id="token-9-11" pos="word" morph="none" start_char="1228" end_char="1231">this</TOKEN>
+<TOKEN id="token-9-12" pos="word" morph="none" start_char="1233" end_char="1236">week</TOKEN>
+<TOKEN id="token-9-13" pos="punct" morph="none" start_char="1237" end_char="1237">,</TOKEN>
+<TOKEN id="token-9-14" pos="word" morph="none" start_char="1239" end_char="1240">at</TOKEN>
+<TOKEN id="token-9-15" pos="word" morph="none" start_char="1242" end_char="1246">least</TOKEN>
+<TOKEN id="token-9-16" pos="word" morph="none" start_char="1248" end_char="1259">rhetorically</TOKEN>
+<TOKEN id="token-9-17" pos="punct" morph="none" start_char="1260" end_char="1260">.</TOKEN>
+</SEG>
+<SEG id="segment-10" start_char="1263" end_char="1477">
+<ORIGINAL_TEXT>South Korean President Park Geun-hye publicly denounced North Korea Wednesday for conducting its fourth nuclear test, defended her countrys limited response and urged China to support strong international sanctions.</ORIGINAL_TEXT>
+<TOKEN id="token-10-0" pos="word" morph="none" start_char="1263" end_char="1267">South</TOKEN>
+<TOKEN id="token-10-1" pos="word" morph="none" start_char="1269" end_char="1274">Korean</TOKEN>
+<TOKEN id="token-10-2" pos="word" morph="none" start_char="1276" end_char="1284">President</TOKEN>
+<TOKEN id="token-10-3" pos="word" morph="none" start_char="1286" end_char="1289">Park</TOKEN>
+<TOKEN id="token-10-4" pos="unknown" morph="none" start_char="1291" end_char="1298">Geun-hye</TOKEN>
+<TOKEN id="token-10-5" pos="word" morph="none" start_char="1300" end_char="1307">publicly</TOKEN>
+<TOKEN id="token-10-6" pos="word" morph="none" start_char="1309" end_char="1317">denounced</TOKEN>
+<TOKEN id="token-10-7" pos="word" morph="none" start_char="1319" end_char="1323">North</TOKEN>
+<TOKEN id="token-10-8" pos="word" morph="none" start_char="1325" end_char="1329">Korea</TOKEN>
+<TOKEN id="token-10-9" pos="word" morph="none" start_char="1331" end_char="1339">Wednesday</TOKEN>
+<TOKEN id="token-10-10" pos="word" morph="none" start_char="1341" end_char="1343">for</TOKEN>
+<TOKEN id="token-10-11" pos="word" morph="none" start_char="1345" end_char="1354">conducting</TOKEN>
+<TOKEN id="token-10-12" pos="word" morph="none" start_char="1356" end_char="1358">its</TOKEN>
+<TOKEN id="token-10-13" pos="word" morph="none" start_char="1360" end_char="1365">fourth</TOKEN>
+<TOKEN id="token-10-14" pos="word" morph="none" start_char="1367" end_char="1373">nuclear</TOKEN>
+<TOKEN id="token-10-15" pos="word" morph="none" start_char="1375" end_char="1378">test</TOKEN>
+<TOKEN id="token-10-16" pos="punct" morph="none" start_char="1379" end_char="1379">,</TOKEN>
+<TOKEN id="token-10-17" pos="word" morph="none" start_char="1381" end_char="1388">defended</TOKEN>
+<TOKEN id="token-10-18" pos="word" morph="none" start_char="1390" end_char="1392">her</TOKEN>
+<TOKEN id="token-10-19" pos="word" morph="none" start_char="1394" end_char="1401">countrys</TOKEN>
+<TOKEN id="token-10-20" pos="word" morph="none" start_char="1403" end_char="1409">limited</TOKEN>
+<TOKEN id="token-10-21" pos="word" morph="none" start_char="1411" end_char="1418">response</TOKEN>
+<TOKEN id="token-10-22" pos="word" morph="none" start_char="1420" end_char="1422">and</TOKEN>
+<TOKEN id="token-10-23" pos="word" morph="none" start_char="1424" end_char="1428">urged</TOKEN>
+<TOKEN id="token-10-24" pos="word" morph="none" start_char="1430" end_char="1434">China</TOKEN>
+<TOKEN id="token-10-25" pos="word" morph="none" start_char="1436" end_char="1437">to</TOKEN>
+<TOKEN id="token-10-26" pos="word" morph="none" start_char="1439" end_char="1445">support</TOKEN>
+<TOKEN id="token-10-27" pos="word" morph="none" start_char="1447" end_char="1452">strong</TOKEN>
+<TOKEN id="token-10-28" pos="word" morph="none" start_char="1454" end_char="1466">international</TOKEN>
+<TOKEN id="token-10-29" pos="word" morph="none" start_char="1468" end_char="1476">sanctions</TOKEN>
+<TOKEN id="token-10-30" pos="punct" morph="none" start_char="1477" end_char="1477">.</TOKEN>
+</SEG>
+<SEG id="segment-11" start_char="1480" end_char="1685">
+<ORIGINAL_TEXT>At a news conference in Seoul, Park said South Korea is cooperating closely with the United States and other allies to develop new United Nations sanctions that will make North Korea feel bone-numbing pain.</ORIGINAL_TEXT>
+<TOKEN id="token-11-0" pos="word" morph="none" start_char="1480" end_char="1481">At</TOKEN>
+<TOKEN id="token-11-1" pos="word" morph="none" start_char="1483" end_char="1483">a</TOKEN>
+<TOKEN id="token-11-2" pos="word" morph="none" start_char="1485" end_char="1488">news</TOKEN>
+<TOKEN id="token-11-3" pos="word" morph="none" start_char="1490" end_char="1499">conference</TOKEN>
+<TOKEN id="token-11-4" pos="word" morph="none" start_char="1501" end_char="1502">in</TOKEN>
+<TOKEN id="token-11-5" pos="word" morph="none" start_char="1504" end_char="1508">Seoul</TOKEN>
+<TOKEN id="token-11-6" pos="punct" morph="none" start_char="1509" end_char="1509">,</TOKEN>
+<TOKEN id="token-11-7" pos="word" morph="none" start_char="1511" end_char="1514">Park</TOKEN>
+<TOKEN id="token-11-8" pos="word" morph="none" start_char="1516" end_char="1519">said</TOKEN>
+<TOKEN id="token-11-9" pos="word" morph="none" start_char="1521" end_char="1525">South</TOKEN>
+<TOKEN id="token-11-10" pos="word" morph="none" start_char="1527" end_char="1531">Korea</TOKEN>
+<TOKEN id="token-11-11" pos="word" morph="none" start_char="1533" end_char="1534">is</TOKEN>
+<TOKEN id="token-11-12" pos="word" morph="none" start_char="1536" end_char="1546">cooperating</TOKEN>
+<TOKEN id="token-11-13" pos="word" morph="none" start_char="1548" end_char="1554">closely</TOKEN>
+<TOKEN id="token-11-14" pos="word" morph="none" start_char="1556" end_char="1559">with</TOKEN>
+<TOKEN id="token-11-15" pos="word" morph="none" start_char="1561" end_char="1563">the</TOKEN>
+<TOKEN id="token-11-16" pos="word" morph="none" start_char="1565" end_char="1570">United</TOKEN>
+<TOKEN id="token-11-17" pos="word" morph="none" start_char="1572" end_char="1577">States</TOKEN>
+<TOKEN id="token-11-18" pos="word" morph="none" start_char="1579" end_char="1581">and</TOKEN>
+<TOKEN id="token-11-19" pos="word" morph="none" start_char="1583" end_char="1587">other</TOKEN>
+<TOKEN id="token-11-20" pos="word" morph="none" start_char="1589" end_char="1594">allies</TOKEN>
+<TOKEN id="token-11-21" pos="word" morph="none" start_char="1596" end_char="1597">to</TOKEN>
+<TOKEN id="token-11-22" pos="word" morph="none" start_char="1599" end_char="1605">develop</TOKEN>
+<TOKEN id="token-11-23" pos="word" morph="none" start_char="1607" end_char="1609">new</TOKEN>
+<TOKEN id="token-11-24" pos="word" morph="none" start_char="1611" end_char="1616">United</TOKEN>
+<TOKEN id="token-11-25" pos="word" morph="none" start_char="1618" end_char="1624">Nations</TOKEN>
+<TOKEN id="token-11-26" pos="word" morph="none" start_char="1626" end_char="1634">sanctions</TOKEN>
+<TOKEN id="token-11-27" pos="word" morph="none" start_char="1636" end_char="1639">that</TOKEN>
+<TOKEN id="token-11-28" pos="word" morph="none" start_char="1641" end_char="1644">will</TOKEN>
+<TOKEN id="token-11-29" pos="word" morph="none" start_char="1646" end_char="1649">make</TOKEN>
+<TOKEN id="token-11-30" pos="word" morph="none" start_char="1651" end_char="1655">North</TOKEN>
+<TOKEN id="token-11-31" pos="word" morph="none" start_char="1657" end_char="1661">Korea</TOKEN>
+<TOKEN id="token-11-32" pos="word" morph="none" start_char="1663" end_char="1666">feel</TOKEN>
+<TOKEN id="token-11-33" pos="unknown" morph="none" start_char="1668" end_char="1679">bone-numbing</TOKEN>
+<TOKEN id="token-11-34" pos="word" morph="none" start_char="1681" end_char="1684">pain</TOKEN>
+<TOKEN id="token-11-35" pos="punct" morph="none" start_char="1685" end_char="1685">.</TOKEN>
+</SEG>
+<SEG id="segment-12" start_char="1688" end_char="1896">
+<ORIGINAL_TEXT>However she recognized that without support from China, which provides key economic support to North Korea, it would be difficult to effectively pressure the Kim Jong Un government to halt its nuclear program.</ORIGINAL_TEXT>
+<TOKEN id="token-12-0" pos="word" morph="none" start_char="1688" end_char="1694">However</TOKEN>
+<TOKEN id="token-12-1" pos="word" morph="none" start_char="1696" end_char="1698">she</TOKEN>
+<TOKEN id="token-12-2" pos="word" morph="none" start_char="1700" end_char="1709">recognized</TOKEN>
+<TOKEN id="token-12-3" pos="word" morph="none" start_char="1711" end_char="1714">that</TOKEN>
+<TOKEN id="token-12-4" pos="word" morph="none" start_char="1716" end_char="1722">without</TOKEN>
+<TOKEN id="token-12-5" pos="word" morph="none" start_char="1724" end_char="1730">support</TOKEN>
+<TOKEN id="token-12-6" pos="word" morph="none" start_char="1732" end_char="1735">from</TOKEN>
+<TOKEN id="token-12-7" pos="word" morph="none" start_char="1737" end_char="1741">China</TOKEN>
+<TOKEN id="token-12-8" pos="punct" morph="none" start_char="1742" end_char="1742">,</TOKEN>
+<TOKEN id="token-12-9" pos="word" morph="none" start_char="1744" end_char="1748">which</TOKEN>
+<TOKEN id="token-12-10" pos="word" morph="none" start_char="1750" end_char="1757">provides</TOKEN>
+<TOKEN id="token-12-11" pos="word" morph="none" start_char="1759" end_char="1761">key</TOKEN>
+<TOKEN id="token-12-12" pos="word" morph="none" start_char="1763" end_char="1770">economic</TOKEN>
+<TOKEN id="token-12-13" pos="word" morph="none" start_char="1772" end_char="1778">support</TOKEN>
+<TOKEN id="token-12-14" pos="word" morph="none" start_char="1780" end_char="1781">to</TOKEN>
+<TOKEN id="token-12-15" pos="word" morph="none" start_char="1783" end_char="1787">North</TOKEN>
+<TOKEN id="token-12-16" pos="word" morph="none" start_char="1789" end_char="1793">Korea</TOKEN>
+<TOKEN id="token-12-17" pos="punct" morph="none" start_char="1794" end_char="1794">,</TOKEN>
+<TOKEN id="token-12-18" pos="word" morph="none" start_char="1796" end_char="1797">it</TOKEN>
+<TOKEN id="token-12-19" pos="word" morph="none" start_char="1799" end_char="1803">would</TOKEN>
+<TOKEN id="token-12-20" pos="word" morph="none" start_char="1805" end_char="1806">be</TOKEN>
+<TOKEN id="token-12-21" pos="word" morph="none" start_char="1808" end_char="1816">difficult</TOKEN>
+<TOKEN id="token-12-22" pos="word" morph="none" start_char="1818" end_char="1819">to</TOKEN>
+<TOKEN id="token-12-23" pos="word" morph="none" start_char="1821" end_char="1831">effectively</TOKEN>
+<TOKEN id="token-12-24" pos="word" morph="none" start_char="1833" end_char="1840">pressure</TOKEN>
+<TOKEN id="token-12-25" pos="word" morph="none" start_char="1842" end_char="1844">the</TOKEN>
+<TOKEN id="token-12-26" pos="word" morph="none" start_char="1846" end_char="1848">Kim</TOKEN>
+<TOKEN id="token-12-27" pos="word" morph="none" start_char="1850" end_char="1853">Jong</TOKEN>
+<TOKEN id="token-12-28" pos="word" morph="none" start_char="1855" end_char="1856">Un</TOKEN>
+<TOKEN id="token-12-29" pos="word" morph="none" start_char="1858" end_char="1867">government</TOKEN>
+<TOKEN id="token-12-30" pos="word" morph="none" start_char="1869" end_char="1870">to</TOKEN>
+<TOKEN id="token-12-31" pos="word" morph="none" start_char="1872" end_char="1875">halt</TOKEN>
+<TOKEN id="token-12-32" pos="word" morph="none" start_char="1877" end_char="1879">its</TOKEN>
+<TOKEN id="token-12-33" pos="word" morph="none" start_char="1881" end_char="1887">nuclear</TOKEN>
+<TOKEN id="token-12-34" pos="word" morph="none" start_char="1889" end_char="1895">program</TOKEN>
+<TOKEN id="token-12-35" pos="punct" morph="none" start_char="1896" end_char="1896">.</TOKEN>
+</SEG>
+<SEG id="segment-13" start_char="1899" end_char="1984">
+<ORIGINAL_TEXT>I believe that China will play a more active role as it has shown a clear willingness.</ORIGINAL_TEXT>
+<TOKEN id="token-13-0" pos="word" morph="none" start_char="1899" end_char="1899">I</TOKEN>
+<TOKEN id="token-13-1" pos="word" morph="none" start_char="1901" end_char="1907">believe</TOKEN>
+<TOKEN id="token-13-2" pos="word" morph="none" start_char="1909" end_char="1912">that</TOKEN>
+<TOKEN id="token-13-3" pos="word" morph="none" start_char="1914" end_char="1918">China</TOKEN>
+<TOKEN id="token-13-4" pos="word" morph="none" start_char="1920" end_char="1923">will</TOKEN>
+<TOKEN id="token-13-5" pos="word" morph="none" start_char="1925" end_char="1928">play</TOKEN>
+<TOKEN id="token-13-6" pos="word" morph="none" start_char="1930" end_char="1930">a</TOKEN>
+<TOKEN id="token-13-7" pos="word" morph="none" start_char="1932" end_char="1935">more</TOKEN>
+<TOKEN id="token-13-8" pos="word" morph="none" start_char="1937" end_char="1942">active</TOKEN>
+<TOKEN id="token-13-9" pos="word" morph="none" start_char="1944" end_char="1947">role</TOKEN>
+<TOKEN id="token-13-10" pos="word" morph="none" start_char="1949" end_char="1950">as</TOKEN>
+<TOKEN id="token-13-11" pos="word" morph="none" start_char="1952" end_char="1953">it</TOKEN>
+<TOKEN id="token-13-12" pos="word" morph="none" start_char="1955" end_char="1957">has</TOKEN>
+<TOKEN id="token-13-13" pos="word" morph="none" start_char="1959" end_char="1963">shown</TOKEN>
+<TOKEN id="token-13-14" pos="word" morph="none" start_char="1965" end_char="1965">a</TOKEN>
+<TOKEN id="token-13-15" pos="word" morph="none" start_char="1967" end_char="1971">clear</TOKEN>
+<TOKEN id="token-13-16" pos="word" morph="none" start_char="1973" end_char="1983">willingness</TOKEN>
+<TOKEN id="token-13-17" pos="punct" morph="none" start_char="1984" end_char="1984">.</TOKEN>
+</SEG>
+<SEG id="segment-14" start_char="1986" end_char="2092">
+<ORIGINAL_TEXT>We are having discussions with the envoys of the six-party talks to develop effective sanctions, Park said.</ORIGINAL_TEXT>
+<TOKEN id="token-14-0" pos="word" morph="none" start_char="1986" end_char="1987">We</TOKEN>
+<TOKEN id="token-14-1" pos="word" morph="none" start_char="1989" end_char="1991">are</TOKEN>
+<TOKEN id="token-14-2" pos="word" morph="none" start_char="1993" end_char="1998">having</TOKEN>
+<TOKEN id="token-14-3" pos="word" morph="none" start_char="2000" end_char="2010">discussions</TOKEN>
+<TOKEN id="token-14-4" pos="word" morph="none" start_char="2012" end_char="2015">with</TOKEN>
+<TOKEN id="token-14-5" pos="word" morph="none" start_char="2017" end_char="2019">the</TOKEN>
+<TOKEN id="token-14-6" pos="word" morph="none" start_char="2021" end_char="2026">envoys</TOKEN>
+<TOKEN id="token-14-7" pos="word" morph="none" start_char="2028" end_char="2029">of</TOKEN>
+<TOKEN id="token-14-8" pos="word" morph="none" start_char="2031" end_char="2033">the</TOKEN>
+<TOKEN id="token-14-9" pos="unknown" morph="none" start_char="2035" end_char="2043">six-party</TOKEN>
+<TOKEN id="token-14-10" pos="word" morph="none" start_char="2045" end_char="2049">talks</TOKEN>
+<TOKEN id="token-14-11" pos="word" morph="none" start_char="2051" end_char="2052">to</TOKEN>
+<TOKEN id="token-14-12" pos="word" morph="none" start_char="2054" end_char="2060">develop</TOKEN>
+<TOKEN id="token-14-13" pos="word" morph="none" start_char="2062" end_char="2070">effective</TOKEN>
+<TOKEN id="token-14-14" pos="word" morph="none" start_char="2072" end_char="2080">sanctions</TOKEN>
+<TOKEN id="token-14-15" pos="punct" morph="none" start_char="2081" end_char="2081">,</TOKEN>
+<TOKEN id="token-14-16" pos="word" morph="none" start_char="2083" end_char="2086">Park</TOKEN>
+<TOKEN id="token-14-17" pos="word" morph="none" start_char="2088" end_char="2091">said</TOKEN>
+<TOKEN id="token-14-18" pos="punct" morph="none" start_char="2092" end_char="2092">.</TOKEN>
+</SEG>
+<SEG id="segment-15" start_char="2095" end_char="2292">
+<ORIGINAL_TEXT>In 2009, Pyongyang withdrew from the six party talks with Washington, Seoul, Tokyo, Beijing and Moscow to halt the Norths nuclear program in exchange for economic assistance and security guarantees.</ORIGINAL_TEXT>
+<TOKEN id="token-15-0" pos="word" morph="none" start_char="2095" end_char="2096">In</TOKEN>
+<TOKEN id="token-15-1" pos="word" morph="none" start_char="2098" end_char="2101">2009</TOKEN>
+<TOKEN id="token-15-2" pos="punct" morph="none" start_char="2102" end_char="2102">,</TOKEN>
+<TOKEN id="token-15-3" pos="word" morph="none" start_char="2104" end_char="2112">Pyongyang</TOKEN>
+<TOKEN id="token-15-4" pos="word" morph="none" start_char="2114" end_char="2121">withdrew</TOKEN>
+<TOKEN id="token-15-5" pos="word" morph="none" start_char="2123" end_char="2126">from</TOKEN>
+<TOKEN id="token-15-6" pos="word" morph="none" start_char="2128" end_char="2130">the</TOKEN>
+<TOKEN id="token-15-7" pos="word" morph="none" start_char="2132" end_char="2134">six</TOKEN>
+<TOKEN id="token-15-8" pos="word" morph="none" start_char="2136" end_char="2140">party</TOKEN>
+<TOKEN id="token-15-9" pos="word" morph="none" start_char="2142" end_char="2146">talks</TOKEN>
+<TOKEN id="token-15-10" pos="word" morph="none" start_char="2148" end_char="2151">with</TOKEN>
+<TOKEN id="token-15-11" pos="word" morph="none" start_char="2153" end_char="2162">Washington</TOKEN>
+<TOKEN id="token-15-12" pos="punct" morph="none" start_char="2163" end_char="2163">,</TOKEN>
+<TOKEN id="token-15-13" pos="word" morph="none" start_char="2165" end_char="2169">Seoul</TOKEN>
+<TOKEN id="token-15-14" pos="punct" morph="none" start_char="2170" end_char="2170">,</TOKEN>
+<TOKEN id="token-15-15" pos="word" morph="none" start_char="2172" end_char="2176">Tokyo</TOKEN>
+<TOKEN id="token-15-16" pos="punct" morph="none" start_char="2177" end_char="2177">,</TOKEN>
+<TOKEN id="token-15-17" pos="word" morph="none" start_char="2179" end_char="2185">Beijing</TOKEN>
+<TOKEN id="token-15-18" pos="word" morph="none" start_char="2187" end_char="2189">and</TOKEN>
+<TOKEN id="token-15-19" pos="word" morph="none" start_char="2191" end_char="2196">Moscow</TOKEN>
+<TOKEN id="token-15-20" pos="word" morph="none" start_char="2198" end_char="2199">to</TOKEN>
+<TOKEN id="token-15-21" pos="word" morph="none" start_char="2201" end_char="2204">halt</TOKEN>
+<TOKEN id="token-15-22" pos="word" morph="none" start_char="2206" end_char="2208">the</TOKEN>
+<TOKEN id="token-15-23" pos="word" morph="none" start_char="2210" end_char="2215">Norths</TOKEN>
+<TOKEN id="token-15-24" pos="word" morph="none" start_char="2217" end_char="2223">nuclear</TOKEN>
+<TOKEN id="token-15-25" pos="word" morph="none" start_char="2225" end_char="2231">program</TOKEN>
+<TOKEN id="token-15-26" pos="word" morph="none" start_char="2233" end_char="2234">in</TOKEN>
+<TOKEN id="token-15-27" pos="word" morph="none" start_char="2236" end_char="2243">exchange</TOKEN>
+<TOKEN id="token-15-28" pos="word" morph="none" start_char="2245" end_char="2247">for</TOKEN>
+<TOKEN id="token-15-29" pos="word" morph="none" start_char="2249" end_char="2256">economic</TOKEN>
+<TOKEN id="token-15-30" pos="word" morph="none" start_char="2258" end_char="2267">assistance</TOKEN>
+<TOKEN id="token-15-31" pos="word" morph="none" start_char="2269" end_char="2271">and</TOKEN>
+<TOKEN id="token-15-32" pos="word" morph="none" start_char="2273" end_char="2280">security</TOKEN>
+<TOKEN id="token-15-33" pos="word" morph="none" start_char="2282" end_char="2291">guarantees</TOKEN>
+<TOKEN id="token-15-34" pos="punct" morph="none" start_char="2292" end_char="2292">.</TOKEN>
+</SEG>
+<SEG id="segment-16" start_char="2295" end_char="2524">
+<ORIGINAL_TEXT>On Tuesday, North Korean leader Kim Jong Un threatened to detonate a more powerful H-bomb in the future and called for an expansion of the size and power of his country's nuclear arsenal, the state television agency KCNA reported.</ORIGINAL_TEXT>
+<TOKEN id="token-16-0" pos="word" morph="none" start_char="2295" end_char="2296">On</TOKEN>
+<TOKEN id="token-16-1" pos="word" morph="none" start_char="2298" end_char="2304">Tuesday</TOKEN>
+<TOKEN id="token-16-2" pos="punct" morph="none" start_char="2305" end_char="2305">,</TOKEN>
+<TOKEN id="token-16-3" pos="word" morph="none" start_char="2307" end_char="2311">North</TOKEN>
+<TOKEN id="token-16-4" pos="word" morph="none" start_char="2313" end_char="2318">Korean</TOKEN>
+<TOKEN id="token-16-5" pos="word" morph="none" start_char="2320" end_char="2325">leader</TOKEN>
+<TOKEN id="token-16-6" pos="word" morph="none" start_char="2327" end_char="2329">Kim</TOKEN>
+<TOKEN id="token-16-7" pos="word" morph="none" start_char="2331" end_char="2334">Jong</TOKEN>
+<TOKEN id="token-16-8" pos="word" morph="none" start_char="2336" end_char="2337">Un</TOKEN>
+<TOKEN id="token-16-9" pos="word" morph="none" start_char="2339" end_char="2348">threatened</TOKEN>
+<TOKEN id="token-16-10" pos="word" morph="none" start_char="2350" end_char="2351">to</TOKEN>
+<TOKEN id="token-16-11" pos="word" morph="none" start_char="2353" end_char="2360">detonate</TOKEN>
+<TOKEN id="token-16-12" pos="word" morph="none" start_char="2362" end_char="2362">a</TOKEN>
+<TOKEN id="token-16-13" pos="word" morph="none" start_char="2364" end_char="2367">more</TOKEN>
+<TOKEN id="token-16-14" pos="word" morph="none" start_char="2369" end_char="2376">powerful</TOKEN>
+<TOKEN id="token-16-15" pos="unknown" morph="none" start_char="2378" end_char="2383">H-bomb</TOKEN>
+<TOKEN id="token-16-16" pos="word" morph="none" start_char="2385" end_char="2386">in</TOKEN>
+<TOKEN id="token-16-17" pos="word" morph="none" start_char="2388" end_char="2390">the</TOKEN>
+<TOKEN id="token-16-18" pos="word" morph="none" start_char="2392" end_char="2397">future</TOKEN>
+<TOKEN id="token-16-19" pos="word" morph="none" start_char="2399" end_char="2401">and</TOKEN>
+<TOKEN id="token-16-20" pos="word" morph="none" start_char="2403" end_char="2408">called</TOKEN>
+<TOKEN id="token-16-21" pos="word" morph="none" start_char="2410" end_char="2412">for</TOKEN>
+<TOKEN id="token-16-22" pos="word" morph="none" start_char="2414" end_char="2415">an</TOKEN>
+<TOKEN id="token-16-23" pos="word" morph="none" start_char="2417" end_char="2425">expansion</TOKEN>
+<TOKEN id="token-16-24" pos="word" morph="none" start_char="2427" end_char="2428">of</TOKEN>
+<TOKEN id="token-16-25" pos="word" morph="none" start_char="2430" end_char="2432">the</TOKEN>
+<TOKEN id="token-16-26" pos="word" morph="none" start_char="2434" end_char="2437">size</TOKEN>
+<TOKEN id="token-16-27" pos="word" morph="none" start_char="2439" end_char="2441">and</TOKEN>
+<TOKEN id="token-16-28" pos="word" morph="none" start_char="2443" end_char="2447">power</TOKEN>
+<TOKEN id="token-16-29" pos="word" morph="none" start_char="2449" end_char="2450">of</TOKEN>
+<TOKEN id="token-16-30" pos="word" morph="none" start_char="2452" end_char="2454">his</TOKEN>
+<TOKEN id="token-16-31" pos="word" morph="none" start_char="2456" end_char="2464">country's</TOKEN>
+<TOKEN id="token-16-32" pos="word" morph="none" start_char="2466" end_char="2472">nuclear</TOKEN>
+<TOKEN id="token-16-33" pos="word" morph="none" start_char="2474" end_char="2480">arsenal</TOKEN>
+<TOKEN id="token-16-34" pos="punct" morph="none" start_char="2481" end_char="2481">,</TOKEN>
+<TOKEN id="token-16-35" pos="word" morph="none" start_char="2483" end_char="2485">the</TOKEN>
+<TOKEN id="token-16-36" pos="word" morph="none" start_char="2487" end_char="2491">state</TOKEN>
+<TOKEN id="token-16-37" pos="word" morph="none" start_char="2493" end_char="2502">television</TOKEN>
+<TOKEN id="token-16-38" pos="word" morph="none" start_char="2504" end_char="2509">agency</TOKEN>
+<TOKEN id="token-16-39" pos="word" morph="none" start_char="2511" end_char="2514">KCNA</TOKEN>
+<TOKEN id="token-16-40" pos="word" morph="none" start_char="2516" end_char="2523">reported</TOKEN>
+<TOKEN id="token-16-41" pos="punct" morph="none" start_char="2524" end_char="2524">.</TOKEN>
+</SEG>
+<SEG id="segment-17" start_char="2527" end_char="2669">
+<ORIGINAL_TEXT>North Korea claims its recent nuclear blast was that of a hydrogen bomb that is much more powerful than the atomic bombs it tested in the past.</ORIGINAL_TEXT>
+<TOKEN id="token-17-0" pos="word" morph="none" start_char="2527" end_char="2531">North</TOKEN>
+<TOKEN id="token-17-1" pos="word" morph="none" start_char="2533" end_char="2537">Korea</TOKEN>
+<TOKEN id="token-17-2" pos="word" morph="none" start_char="2539" end_char="2544">claims</TOKEN>
+<TOKEN id="token-17-3" pos="word" morph="none" start_char="2546" end_char="2548">its</TOKEN>
+<TOKEN id="token-17-4" pos="word" morph="none" start_char="2550" end_char="2555">recent</TOKEN>
+<TOKEN id="token-17-5" pos="word" morph="none" start_char="2557" end_char="2563">nuclear</TOKEN>
+<TOKEN id="token-17-6" pos="word" morph="none" start_char="2565" end_char="2569">blast</TOKEN>
+<TOKEN id="token-17-7" pos="word" morph="none" start_char="2571" end_char="2573">was</TOKEN>
+<TOKEN id="token-17-8" pos="word" morph="none" start_char="2575" end_char="2578">that</TOKEN>
+<TOKEN id="token-17-9" pos="word" morph="none" start_char="2580" end_char="2581">of</TOKEN>
+<TOKEN id="token-17-10" pos="word" morph="none" start_char="2583" end_char="2583">a</TOKEN>
+<TOKEN id="token-17-11" pos="word" morph="none" start_char="2585" end_char="2592">hydrogen</TOKEN>
+<TOKEN id="token-17-12" pos="word" morph="none" start_char="2594" end_char="2597">bomb</TOKEN>
+<TOKEN id="token-17-13" pos="word" morph="none" start_char="2599" end_char="2602">that</TOKEN>
+<TOKEN id="token-17-14" pos="word" morph="none" start_char="2604" end_char="2605">is</TOKEN>
+<TOKEN id="token-17-15" pos="word" morph="none" start_char="2607" end_char="2610">much</TOKEN>
+<TOKEN id="token-17-16" pos="word" morph="none" start_char="2612" end_char="2615">more</TOKEN>
+<TOKEN id="token-17-17" pos="word" morph="none" start_char="2617" end_char="2624">powerful</TOKEN>
+<TOKEN id="token-17-18" pos="word" morph="none" start_char="2626" end_char="2629">than</TOKEN>
+<TOKEN id="token-17-19" pos="word" morph="none" start_char="2631" end_char="2633">the</TOKEN>
+<TOKEN id="token-17-20" pos="word" morph="none" start_char="2635" end_char="2640">atomic</TOKEN>
+<TOKEN id="token-17-21" pos="word" morph="none" start_char="2642" end_char="2646">bombs</TOKEN>
+<TOKEN id="token-17-22" pos="word" morph="none" start_char="2648" end_char="2649">it</TOKEN>
+<TOKEN id="token-17-23" pos="word" morph="none" start_char="2651" end_char="2656">tested</TOKEN>
+<TOKEN id="token-17-24" pos="word" morph="none" start_char="2658" end_char="2659">in</TOKEN>
+<TOKEN id="token-17-25" pos="word" morph="none" start_char="2661" end_char="2663">the</TOKEN>
+<TOKEN id="token-17-26" pos="word" morph="none" start_char="2665" end_char="2668">past</TOKEN>
+<TOKEN id="token-17-27" pos="punct" morph="none" start_char="2669" end_char="2669">.</TOKEN>
+</SEG>
+<SEG id="segment-18" start_char="2671" end_char="2792">
+<ORIGINAL_TEXT>This claim has been largely dismissed by experts, who argue the yield was too low for a full-fledged thermonuclear device.</ORIGINAL_TEXT>
+<TOKEN id="token-18-0" pos="word" morph="none" start_char="2671" end_char="2674">This</TOKEN>
+<TOKEN id="token-18-1" pos="word" morph="none" start_char="2676" end_char="2680">claim</TOKEN>
+<TOKEN id="token-18-2" pos="word" morph="none" start_char="2682" end_char="2684">has</TOKEN>
+<TOKEN id="token-18-3" pos="word" morph="none" start_char="2686" end_char="2689">been</TOKEN>
+<TOKEN id="token-18-4" pos="word" morph="none" start_char="2691" end_char="2697">largely</TOKEN>
+<TOKEN id="token-18-5" pos="word" morph="none" start_char="2699" end_char="2707">dismissed</TOKEN>
+<TOKEN id="token-18-6" pos="word" morph="none" start_char="2709" end_char="2710">by</TOKEN>
+<TOKEN id="token-18-7" pos="word" morph="none" start_char="2712" end_char="2718">experts</TOKEN>
+<TOKEN id="token-18-8" pos="punct" morph="none" start_char="2719" end_char="2719">,</TOKEN>
+<TOKEN id="token-18-9" pos="word" morph="none" start_char="2721" end_char="2723">who</TOKEN>
+<TOKEN id="token-18-10" pos="word" morph="none" start_char="2725" end_char="2729">argue</TOKEN>
+<TOKEN id="token-18-11" pos="word" morph="none" start_char="2731" end_char="2733">the</TOKEN>
+<TOKEN id="token-18-12" pos="word" morph="none" start_char="2735" end_char="2739">yield</TOKEN>
+<TOKEN id="token-18-13" pos="word" morph="none" start_char="2741" end_char="2743">was</TOKEN>
+<TOKEN id="token-18-14" pos="word" morph="none" start_char="2745" end_char="2747">too</TOKEN>
+<TOKEN id="token-18-15" pos="word" morph="none" start_char="2749" end_char="2751">low</TOKEN>
+<TOKEN id="token-18-16" pos="word" morph="none" start_char="2753" end_char="2755">for</TOKEN>
+<TOKEN id="token-18-17" pos="word" morph="none" start_char="2757" end_char="2757">a</TOKEN>
+<TOKEN id="token-18-18" pos="unknown" morph="none" start_char="2759" end_char="2770">full-fledged</TOKEN>
+<TOKEN id="token-18-19" pos="word" morph="none" start_char="2772" end_char="2784">thermonuclear</TOKEN>
+<TOKEN id="token-18-20" pos="word" morph="none" start_char="2786" end_char="2791">device</TOKEN>
+<TOKEN id="token-18-21" pos="punct" morph="none" start_char="2792" end_char="2792">.</TOKEN>
+</SEG>
+<SEG id="segment-19" start_char="2795" end_char="2815">
+<ORIGINAL_TEXT>South Korean measures</ORIGINAL_TEXT>
+<TOKEN id="token-19-0" pos="word" morph="none" start_char="2795" end_char="2799">South</TOKEN>
+<TOKEN id="token-19-1" pos="word" morph="none" start_char="2801" end_char="2806">Korean</TOKEN>
+<TOKEN id="token-19-2" pos="word" morph="none" start_char="2808" end_char="2815">measures</TOKEN>
+</SEG>
+<SEG id="segment-20" start_char="2818" end_char="2975">
+<ORIGINAL_TEXT>Park defended her decision to resume anti-Kim Jong Un loudspeaker broadcasts along the border against charges that they are ineffective or overly provocative.</ORIGINAL_TEXT>
+<TOKEN id="token-20-0" pos="word" morph="none" start_char="2818" end_char="2821">Park</TOKEN>
+<TOKEN id="token-20-1" pos="word" morph="none" start_char="2823" end_char="2830">defended</TOKEN>
+<TOKEN id="token-20-2" pos="word" morph="none" start_char="2832" end_char="2834">her</TOKEN>
+<TOKEN id="token-20-3" pos="word" morph="none" start_char="2836" end_char="2843">decision</TOKEN>
+<TOKEN id="token-20-4" pos="word" morph="none" start_char="2845" end_char="2846">to</TOKEN>
+<TOKEN id="token-20-5" pos="word" morph="none" start_char="2848" end_char="2853">resume</TOKEN>
+<TOKEN id="token-20-6" pos="unknown" morph="none" start_char="2855" end_char="2862">anti-Kim</TOKEN>
+<TOKEN id="token-20-7" pos="word" morph="none" start_char="2864" end_char="2867">Jong</TOKEN>
+<TOKEN id="token-20-8" pos="word" morph="none" start_char="2869" end_char="2870">Un</TOKEN>
+<TOKEN id="token-20-9" pos="word" morph="none" start_char="2872" end_char="2882">loudspeaker</TOKEN>
+<TOKEN id="token-20-10" pos="word" morph="none" start_char="2884" end_char="2893">broadcasts</TOKEN>
+<TOKEN id="token-20-11" pos="word" morph="none" start_char="2895" end_char="2899">along</TOKEN>
+<TOKEN id="token-20-12" pos="word" morph="none" start_char="2901" end_char="2903">the</TOKEN>
+<TOKEN id="token-20-13" pos="word" morph="none" start_char="2905" end_char="2910">border</TOKEN>
+<TOKEN id="token-20-14" pos="word" morph="none" start_char="2912" end_char="2918">against</TOKEN>
+<TOKEN id="token-20-15" pos="word" morph="none" start_char="2920" end_char="2926">charges</TOKEN>
+<TOKEN id="token-20-16" pos="word" morph="none" start_char="2928" end_char="2931">that</TOKEN>
+<TOKEN id="token-20-17" pos="word" morph="none" start_char="2933" end_char="2936">they</TOKEN>
+<TOKEN id="token-20-18" pos="word" morph="none" start_char="2938" end_char="2940">are</TOKEN>
+<TOKEN id="token-20-19" pos="word" morph="none" start_char="2942" end_char="2952">ineffective</TOKEN>
+<TOKEN id="token-20-20" pos="word" morph="none" start_char="2954" end_char="2955">or</TOKEN>
+<TOKEN id="token-20-21" pos="word" morph="none" start_char="2957" end_char="2962">overly</TOKEN>
+<TOKEN id="token-20-22" pos="word" morph="none" start_char="2964" end_char="2974">provocative</TOKEN>
+<TOKEN id="token-20-23" pos="punct" morph="none" start_char="2975" end_char="2975">.</TOKEN>
+</SEG>
+<SEG id="segment-21" start_char="2978" end_char="3159">
+<ORIGINAL_TEXT>She said the use of this psychological warfare measure stirs unrest amongst the populist in the North and unnerves the Pyongyang leadership that tightly controls the state run media.</ORIGINAL_TEXT>
+<TOKEN id="token-21-0" pos="word" morph="none" start_char="2978" end_char="2980">She</TOKEN>
+<TOKEN id="token-21-1" pos="word" morph="none" start_char="2982" end_char="2985">said</TOKEN>
+<TOKEN id="token-21-2" pos="word" morph="none" start_char="2987" end_char="2989">the</TOKEN>
+<TOKEN id="token-21-3" pos="word" morph="none" start_char="2991" end_char="2993">use</TOKEN>
+<TOKEN id="token-21-4" pos="word" morph="none" start_char="2995" end_char="2996">of</TOKEN>
+<TOKEN id="token-21-5" pos="word" morph="none" start_char="2998" end_char="3001">this</TOKEN>
+<TOKEN id="token-21-6" pos="word" morph="none" start_char="3003" end_char="3015">psychological</TOKEN>
+<TOKEN id="token-21-7" pos="word" morph="none" start_char="3017" end_char="3023">warfare</TOKEN>
+<TOKEN id="token-21-8" pos="word" morph="none" start_char="3025" end_char="3031">measure</TOKEN>
+<TOKEN id="token-21-9" pos="word" morph="none" start_char="3033" end_char="3037">stirs</TOKEN>
+<TOKEN id="token-21-10" pos="word" morph="none" start_char="3039" end_char="3044">unrest</TOKEN>
+<TOKEN id="token-21-11" pos="word" morph="none" start_char="3046" end_char="3052">amongst</TOKEN>
+<TOKEN id="token-21-12" pos="word" morph="none" start_char="3054" end_char="3056">the</TOKEN>
+<TOKEN id="token-21-13" pos="word" morph="none" start_char="3058" end_char="3065">populist</TOKEN>
+<TOKEN id="token-21-14" pos="word" morph="none" start_char="3067" end_char="3068">in</TOKEN>
+<TOKEN id="token-21-15" pos="word" morph="none" start_char="3070" end_char="3072">the</TOKEN>
+<TOKEN id="token-21-16" pos="word" morph="none" start_char="3074" end_char="3078">North</TOKEN>
+<TOKEN id="token-21-17" pos="word" morph="none" start_char="3080" end_char="3082">and</TOKEN>
+<TOKEN id="token-21-18" pos="word" morph="none" start_char="3084" end_char="3091">unnerves</TOKEN>
+<TOKEN id="token-21-19" pos="word" morph="none" start_char="3093" end_char="3095">the</TOKEN>
+<TOKEN id="token-21-20" pos="word" morph="none" start_char="3097" end_char="3105">Pyongyang</TOKEN>
+<TOKEN id="token-21-21" pos="word" morph="none" start_char="3107" end_char="3116">leadership</TOKEN>
+<TOKEN id="token-21-22" pos="word" morph="none" start_char="3118" end_char="3121">that</TOKEN>
+<TOKEN id="token-21-23" pos="word" morph="none" start_char="3123" end_char="3129">tightly</TOKEN>
+<TOKEN id="token-21-24" pos="word" morph="none" start_char="3131" end_char="3138">controls</TOKEN>
+<TOKEN id="token-21-25" pos="word" morph="none" start_char="3140" end_char="3142">the</TOKEN>
+<TOKEN id="token-21-26" pos="word" morph="none" start_char="3144" end_char="3148">state</TOKEN>
+<TOKEN id="token-21-27" pos="word" morph="none" start_char="3150" end_char="3152">run</TOKEN>
+<TOKEN id="token-21-28" pos="word" morph="none" start_char="3154" end_char="3158">media</TOKEN>
+<TOKEN id="token-21-29" pos="punct" morph="none" start_char="3159" end_char="3159">.</TOKEN>
+</SEG>
+<SEG id="segment-22" start_char="3161" end_char="3396">
+<ORIGINAL_TEXT>She credits the broadcasts used last year, during a flare up in tensions over a land mine incident, for pressuring the North Korean leadership to seek a settlement and make concessions, including an apology for instigating the conflict.</ORIGINAL_TEXT>
+<TOKEN id="token-22-0" pos="word" morph="none" start_char="3161" end_char="3163">She</TOKEN>
+<TOKEN id="token-22-1" pos="word" morph="none" start_char="3165" end_char="3171">credits</TOKEN>
+<TOKEN id="token-22-2" pos="word" morph="none" start_char="3173" end_char="3175">the</TOKEN>
+<TOKEN id="token-22-3" pos="word" morph="none" start_char="3177" end_char="3186">broadcasts</TOKEN>
+<TOKEN id="token-22-4" pos="word" morph="none" start_char="3188" end_char="3191">used</TOKEN>
+<TOKEN id="token-22-5" pos="word" morph="none" start_char="3193" end_char="3196">last</TOKEN>
+<TOKEN id="token-22-6" pos="word" morph="none" start_char="3198" end_char="3201">year</TOKEN>
+<TOKEN id="token-22-7" pos="punct" morph="none" start_char="3202" end_char="3202">,</TOKEN>
+<TOKEN id="token-22-8" pos="word" morph="none" start_char="3204" end_char="3209">during</TOKEN>
+<TOKEN id="token-22-9" pos="word" morph="none" start_char="3211" end_char="3211">a</TOKEN>
+<TOKEN id="token-22-10" pos="word" morph="none" start_char="3213" end_char="3217">flare</TOKEN>
+<TOKEN id="token-22-11" pos="word" morph="none" start_char="3219" end_char="3220">up</TOKEN>
+<TOKEN id="token-22-12" pos="word" morph="none" start_char="3222" end_char="3223">in</TOKEN>
+<TOKEN id="token-22-13" pos="word" morph="none" start_char="3225" end_char="3232">tensions</TOKEN>
+<TOKEN id="token-22-14" pos="word" morph="none" start_char="3234" end_char="3237">over</TOKEN>
+<TOKEN id="token-22-15" pos="word" morph="none" start_char="3239" end_char="3239">a</TOKEN>
+<TOKEN id="token-22-16" pos="word" morph="none" start_char="3241" end_char="3244">land</TOKEN>
+<TOKEN id="token-22-17" pos="word" morph="none" start_char="3246" end_char="3249">mine</TOKEN>
+<TOKEN id="token-22-18" pos="word" morph="none" start_char="3251" end_char="3258">incident</TOKEN>
+<TOKEN id="token-22-19" pos="punct" morph="none" start_char="3259" end_char="3259">,</TOKEN>
+<TOKEN id="token-22-20" pos="word" morph="none" start_char="3261" end_char="3263">for</TOKEN>
+<TOKEN id="token-22-21" pos="word" morph="none" start_char="3265" end_char="3274">pressuring</TOKEN>
+<TOKEN id="token-22-22" pos="word" morph="none" start_char="3276" end_char="3278">the</TOKEN>
+<TOKEN id="token-22-23" pos="word" morph="none" start_char="3280" end_char="3284">North</TOKEN>
+<TOKEN id="token-22-24" pos="word" morph="none" start_char="3286" end_char="3291">Korean</TOKEN>
+<TOKEN id="token-22-25" pos="word" morph="none" start_char="3293" end_char="3302">leadership</TOKEN>
+<TOKEN id="token-22-26" pos="word" morph="none" start_char="3304" end_char="3305">to</TOKEN>
+<TOKEN id="token-22-27" pos="word" morph="none" start_char="3307" end_char="3310">seek</TOKEN>
+<TOKEN id="token-22-28" pos="word" morph="none" start_char="3312" end_char="3312">a</TOKEN>
+<TOKEN id="token-22-29" pos="word" morph="none" start_char="3314" end_char="3323">settlement</TOKEN>
+<TOKEN id="token-22-30" pos="word" morph="none" start_char="3325" end_char="3327">and</TOKEN>
+<TOKEN id="token-22-31" pos="word" morph="none" start_char="3329" end_char="3332">make</TOKEN>
+<TOKEN id="token-22-32" pos="word" morph="none" start_char="3334" end_char="3344">concessions</TOKEN>
+<TOKEN id="token-22-33" pos="punct" morph="none" start_char="3345" end_char="3345">,</TOKEN>
+<TOKEN id="token-22-34" pos="word" morph="none" start_char="3347" end_char="3355">including</TOKEN>
+<TOKEN id="token-22-35" pos="word" morph="none" start_char="3357" end_char="3358">an</TOKEN>
+<TOKEN id="token-22-36" pos="word" morph="none" start_char="3360" end_char="3366">apology</TOKEN>
+<TOKEN id="token-22-37" pos="word" morph="none" start_char="3368" end_char="3370">for</TOKEN>
+<TOKEN id="token-22-38" pos="word" morph="none" start_char="3372" end_char="3382">instigating</TOKEN>
+<TOKEN id="token-22-39" pos="word" morph="none" start_char="3384" end_char="3386">the</TOKEN>
+<TOKEN id="token-22-40" pos="word" morph="none" start_char="3388" end_char="3395">conflict</TOKEN>
+<TOKEN id="token-22-41" pos="punct" morph="none" start_char="3396" end_char="3396">.</TOKEN>
+</SEG>
+<SEG id="segment-23" start_char="3399" end_char="3473">
+<ORIGINAL_TEXT>Truth is the most important weapon against a totalitarian regime, she said.</ORIGINAL_TEXT>
+<TOKEN id="token-23-0" pos="word" morph="none" start_char="3399" end_char="3403">Truth</TOKEN>
+<TOKEN id="token-23-1" pos="word" morph="none" start_char="3405" end_char="3406">is</TOKEN>
+<TOKEN id="token-23-2" pos="word" morph="none" start_char="3408" end_char="3410">the</TOKEN>
+<TOKEN id="token-23-3" pos="word" morph="none" start_char="3412" end_char="3415">most</TOKEN>
+<TOKEN id="token-23-4" pos="word" morph="none" start_char="3417" end_char="3425">important</TOKEN>
+<TOKEN id="token-23-5" pos="word" morph="none" start_char="3427" end_char="3432">weapon</TOKEN>
+<TOKEN id="token-23-6" pos="word" morph="none" start_char="3434" end_char="3440">against</TOKEN>
+<TOKEN id="token-23-7" pos="word" morph="none" start_char="3442" end_char="3442">a</TOKEN>
+<TOKEN id="token-23-8" pos="word" morph="none" start_char="3444" end_char="3455">totalitarian</TOKEN>
+<TOKEN id="token-23-9" pos="word" morph="none" start_char="3457" end_char="3462">regime</TOKEN>
+<TOKEN id="token-23-10" pos="punct" morph="none" start_char="3463" end_char="3463">,</TOKEN>
+<TOKEN id="token-23-11" pos="word" morph="none" start_char="3465" end_char="3467">she</TOKEN>
+<TOKEN id="token-23-12" pos="word" morph="none" start_char="3469" end_char="3472">said</TOKEN>
+<TOKEN id="token-23-13" pos="punct" morph="none" start_char="3473" end_char="3473">.</TOKEN>
+</SEG>
+<SEG id="segment-24" start_char="3476" end_char="3599">
+<ORIGINAL_TEXT>North Korea has reportedly set up its own loudspeaker towers in the border area that broadcast criticisms of President Park.</ORIGINAL_TEXT>
+<TOKEN id="token-24-0" pos="word" morph="none" start_char="3476" end_char="3480">North</TOKEN>
+<TOKEN id="token-24-1" pos="word" morph="none" start_char="3482" end_char="3486">Korea</TOKEN>
+<TOKEN id="token-24-2" pos="word" morph="none" start_char="3488" end_char="3490">has</TOKEN>
+<TOKEN id="token-24-3" pos="word" morph="none" start_char="3492" end_char="3501">reportedly</TOKEN>
+<TOKEN id="token-24-4" pos="word" morph="none" start_char="3503" end_char="3505">set</TOKEN>
+<TOKEN id="token-24-5" pos="word" morph="none" start_char="3507" end_char="3508">up</TOKEN>
+<TOKEN id="token-24-6" pos="word" morph="none" start_char="3510" end_char="3512">its</TOKEN>
+<TOKEN id="token-24-7" pos="word" morph="none" start_char="3514" end_char="3516">own</TOKEN>
+<TOKEN id="token-24-8" pos="word" morph="none" start_char="3518" end_char="3528">loudspeaker</TOKEN>
+<TOKEN id="token-24-9" pos="word" morph="none" start_char="3530" end_char="3535">towers</TOKEN>
+<TOKEN id="token-24-10" pos="word" morph="none" start_char="3537" end_char="3538">in</TOKEN>
+<TOKEN id="token-24-11" pos="word" morph="none" start_char="3540" end_char="3542">the</TOKEN>
+<TOKEN id="token-24-12" pos="word" morph="none" start_char="3544" end_char="3549">border</TOKEN>
+<TOKEN id="token-24-13" pos="word" morph="none" start_char="3551" end_char="3554">area</TOKEN>
+<TOKEN id="token-24-14" pos="word" morph="none" start_char="3556" end_char="3559">that</TOKEN>
+<TOKEN id="token-24-15" pos="word" morph="none" start_char="3561" end_char="3569">broadcast</TOKEN>
+<TOKEN id="token-24-16" pos="word" morph="none" start_char="3571" end_char="3580">criticisms</TOKEN>
+<TOKEN id="token-24-17" pos="word" morph="none" start_char="3582" end_char="3583">of</TOKEN>
+<TOKEN id="token-24-18" pos="word" morph="none" start_char="3585" end_char="3593">President</TOKEN>
+<TOKEN id="token-24-19" pos="word" morph="none" start_char="3595" end_char="3598">Park</TOKEN>
+<TOKEN id="token-24-20" pos="punct" morph="none" start_char="3599" end_char="3599">.</TOKEN>
+</SEG>
+<SEG id="segment-25" start_char="3602" end_char="3823">
+<ORIGINAL_TEXT>During her news conference Park credited South Koreas close military alliance with the United States for generating a strong deterrence and enhancing military readiness to defend against possible North Korean provocations.</ORIGINAL_TEXT>
+<TOKEN id="token-25-0" pos="word" morph="none" start_char="3602" end_char="3607">During</TOKEN>
+<TOKEN id="token-25-1" pos="word" morph="none" start_char="3609" end_char="3611">her</TOKEN>
+<TOKEN id="token-25-2" pos="word" morph="none" start_char="3613" end_char="3616">news</TOKEN>
+<TOKEN id="token-25-3" pos="word" morph="none" start_char="3618" end_char="3627">conference</TOKEN>
+<TOKEN id="token-25-4" pos="word" morph="none" start_char="3629" end_char="3632">Park</TOKEN>
+<TOKEN id="token-25-5" pos="word" morph="none" start_char="3634" end_char="3641">credited</TOKEN>
+<TOKEN id="token-25-6" pos="word" morph="none" start_char="3643" end_char="3647">South</TOKEN>
+<TOKEN id="token-25-7" pos="word" morph="none" start_char="3649" end_char="3654">Koreas</TOKEN>
+<TOKEN id="token-25-8" pos="word" morph="none" start_char="3656" end_char="3660">close</TOKEN>
+<TOKEN id="token-25-9" pos="word" morph="none" start_char="3662" end_char="3669">military</TOKEN>
+<TOKEN id="token-25-10" pos="word" morph="none" start_char="3671" end_char="3678">alliance</TOKEN>
+<TOKEN id="token-25-11" pos="word" morph="none" start_char="3680" end_char="3683">with</TOKEN>
+<TOKEN id="token-25-12" pos="word" morph="none" start_char="3685" end_char="3687">the</TOKEN>
+<TOKEN id="token-25-13" pos="word" morph="none" start_char="3689" end_char="3694">United</TOKEN>
+<TOKEN id="token-25-14" pos="word" morph="none" start_char="3696" end_char="3701">States</TOKEN>
+<TOKEN id="token-25-15" pos="word" morph="none" start_char="3703" end_char="3705">for</TOKEN>
+<TOKEN id="token-25-16" pos="word" morph="none" start_char="3707" end_char="3716">generating</TOKEN>
+<TOKEN id="token-25-17" pos="word" morph="none" start_char="3718" end_char="3718">a</TOKEN>
+<TOKEN id="token-25-18" pos="word" morph="none" start_char="3720" end_char="3725">strong</TOKEN>
+<TOKEN id="token-25-19" pos="word" morph="none" start_char="3727" end_char="3736">deterrence</TOKEN>
+<TOKEN id="token-25-20" pos="word" morph="none" start_char="3738" end_char="3740">and</TOKEN>
+<TOKEN id="token-25-21" pos="word" morph="none" start_char="3742" end_char="3750">enhancing</TOKEN>
+<TOKEN id="token-25-22" pos="word" morph="none" start_char="3752" end_char="3759">military</TOKEN>
+<TOKEN id="token-25-23" pos="word" morph="none" start_char="3761" end_char="3769">readiness</TOKEN>
+<TOKEN id="token-25-24" pos="word" morph="none" start_char="3771" end_char="3772">to</TOKEN>
+<TOKEN id="token-25-25" pos="word" morph="none" start_char="3774" end_char="3779">defend</TOKEN>
+<TOKEN id="token-25-26" pos="word" morph="none" start_char="3781" end_char="3787">against</TOKEN>
+<TOKEN id="token-25-27" pos="word" morph="none" start_char="3789" end_char="3796">possible</TOKEN>
+<TOKEN id="token-25-28" pos="word" morph="none" start_char="3798" end_char="3802">North</TOKEN>
+<TOKEN id="token-25-29" pos="word" morph="none" start_char="3804" end_char="3809">Korean</TOKEN>
+<TOKEN id="token-25-30" pos="word" morph="none" start_char="3811" end_char="3822">provocations</TOKEN>
+<TOKEN id="token-25-31" pos="punct" morph="none" start_char="3823" end_char="3823">.</TOKEN>
+</SEG>
+<SEG id="segment-26" start_char="3826" end_char="4026">
+<ORIGINAL_TEXT>Washington and Seoul recently conducted a demonstration of airpower close to the border with the North by flying a nuclear capable U.S. B-52 bomber, brought in from Guam, and a South Korea fighter jet.</ORIGINAL_TEXT>
+<TOKEN id="token-26-0" pos="word" morph="none" start_char="3826" end_char="3835">Washington</TOKEN>
+<TOKEN id="token-26-1" pos="word" morph="none" start_char="3837" end_char="3839">and</TOKEN>
+<TOKEN id="token-26-2" pos="word" morph="none" start_char="3841" end_char="3845">Seoul</TOKEN>
+<TOKEN id="token-26-3" pos="word" morph="none" start_char="3847" end_char="3854">recently</TOKEN>
+<TOKEN id="token-26-4" pos="word" morph="none" start_char="3856" end_char="3864">conducted</TOKEN>
+<TOKEN id="token-26-5" pos="word" morph="none" start_char="3866" end_char="3866">a</TOKEN>
+<TOKEN id="token-26-6" pos="word" morph="none" start_char="3868" end_char="3880">demonstration</TOKEN>
+<TOKEN id="token-26-7" pos="word" morph="none" start_char="3882" end_char="3883">of</TOKEN>
+<TOKEN id="token-26-8" pos="word" morph="none" start_char="3885" end_char="3892">airpower</TOKEN>
+<TOKEN id="token-26-9" pos="word" morph="none" start_char="3894" end_char="3898">close</TOKEN>
+<TOKEN id="token-26-10" pos="word" morph="none" start_char="3900" end_char="3901">to</TOKEN>
+<TOKEN id="token-26-11" pos="word" morph="none" start_char="3903" end_char="3905">the</TOKEN>
+<TOKEN id="token-26-12" pos="word" morph="none" start_char="3907" end_char="3912">border</TOKEN>
+<TOKEN id="token-26-13" pos="word" morph="none" start_char="3914" end_char="3917">with</TOKEN>
+<TOKEN id="token-26-14" pos="word" morph="none" start_char="3919" end_char="3921">the</TOKEN>
+<TOKEN id="token-26-15" pos="word" morph="none" start_char="3923" end_char="3927">North</TOKEN>
+<TOKEN id="token-26-16" pos="word" morph="none" start_char="3929" end_char="3930">by</TOKEN>
+<TOKEN id="token-26-17" pos="word" morph="none" start_char="3932" end_char="3937">flying</TOKEN>
+<TOKEN id="token-26-18" pos="word" morph="none" start_char="3939" end_char="3939">a</TOKEN>
+<TOKEN id="token-26-19" pos="word" morph="none" start_char="3941" end_char="3947">nuclear</TOKEN>
+<TOKEN id="token-26-20" pos="word" morph="none" start_char="3949" end_char="3955">capable</TOKEN>
+<TOKEN id="token-26-21" pos="unknown" morph="none" start_char="3957" end_char="3959">U.S</TOKEN>
+<TOKEN id="token-26-22" pos="punct" morph="none" start_char="3960" end_char="3960">.</TOKEN>
+<TOKEN id="token-26-23" pos="unknown" morph="none" start_char="3962" end_char="3965">B-52</TOKEN>
+<TOKEN id="token-26-24" pos="word" morph="none" start_char="3967" end_char="3972">bomber</TOKEN>
+<TOKEN id="token-26-25" pos="punct" morph="none" start_char="3973" end_char="3973">,</TOKEN>
+<TOKEN id="token-26-26" pos="word" morph="none" start_char="3975" end_char="3981">brought</TOKEN>
+<TOKEN id="token-26-27" pos="word" morph="none" start_char="3983" end_char="3984">in</TOKEN>
+<TOKEN id="token-26-28" pos="word" morph="none" start_char="3986" end_char="3989">from</TOKEN>
+<TOKEN id="token-26-29" pos="word" morph="none" start_char="3991" end_char="3994">Guam</TOKEN>
+<TOKEN id="token-26-30" pos="punct" morph="none" start_char="3995" end_char="3995">,</TOKEN>
+<TOKEN id="token-26-31" pos="word" morph="none" start_char="3997" end_char="3999">and</TOKEN>
+<TOKEN id="token-26-32" pos="word" morph="none" start_char="4001" end_char="4001">a</TOKEN>
+<TOKEN id="token-26-33" pos="word" morph="none" start_char="4003" end_char="4007">South</TOKEN>
+<TOKEN id="token-26-34" pos="word" morph="none" start_char="4009" end_char="4013">Korea</TOKEN>
+<TOKEN id="token-26-35" pos="word" morph="none" start_char="4015" end_char="4021">fighter</TOKEN>
+<TOKEN id="token-26-36" pos="word" morph="none" start_char="4023" end_char="4025">jet</TOKEN>
+<TOKEN id="token-26-37" pos="punct" morph="none" start_char="4026" end_char="4026">.</TOKEN>
+</SEG>
+<SEG id="segment-27" start_char="4029" end_char="4229">
+<ORIGINAL_TEXT>However Park said she would not ask the U.S. to station nuclear weapons in South Korea and was non-committal on possibly setting up the U.S. Terminal High Altitude Area Defense [THAAD] system in Korea.</ORIGINAL_TEXT>
+<TOKEN id="token-27-0" pos="word" morph="none" start_char="4029" end_char="4035">However</TOKEN>
+<TOKEN id="token-27-1" pos="word" morph="none" start_char="4037" end_char="4040">Park</TOKEN>
+<TOKEN id="token-27-2" pos="word" morph="none" start_char="4042" end_char="4045">said</TOKEN>
+<TOKEN id="token-27-3" pos="word" morph="none" start_char="4047" end_char="4049">she</TOKEN>
+<TOKEN id="token-27-4" pos="word" morph="none" start_char="4051" end_char="4055">would</TOKEN>
+<TOKEN id="token-27-5" pos="word" morph="none" start_char="4057" end_char="4059">not</TOKEN>
+<TOKEN id="token-27-6" pos="word" morph="none" start_char="4061" end_char="4063">ask</TOKEN>
+<TOKEN id="token-27-7" pos="word" morph="none" start_char="4065" end_char="4067">the</TOKEN>
+<TOKEN id="token-27-8" pos="unknown" morph="none" start_char="4069" end_char="4071">U.S</TOKEN>
+<TOKEN id="token-27-9" pos="punct" morph="none" start_char="4072" end_char="4072">.</TOKEN>
+<TOKEN id="token-27-10" pos="word" morph="none" start_char="4074" end_char="4075">to</TOKEN>
+<TOKEN id="token-27-11" pos="word" morph="none" start_char="4077" end_char="4083">station</TOKEN>
+<TOKEN id="token-27-12" pos="word" morph="none" start_char="4085" end_char="4091">nuclear</TOKEN>
+<TOKEN id="token-27-13" pos="word" morph="none" start_char="4093" end_char="4099">weapons</TOKEN>
+<TOKEN id="token-27-14" pos="word" morph="none" start_char="4101" end_char="4102">in</TOKEN>
+<TOKEN id="token-27-15" pos="word" morph="none" start_char="4104" end_char="4108">South</TOKEN>
+<TOKEN id="token-27-16" pos="word" morph="none" start_char="4110" end_char="4114">Korea</TOKEN>
+<TOKEN id="token-27-17" pos="word" morph="none" start_char="4116" end_char="4118">and</TOKEN>
+<TOKEN id="token-27-18" pos="word" morph="none" start_char="4120" end_char="4122">was</TOKEN>
+<TOKEN id="token-27-19" pos="unknown" morph="none" start_char="4124" end_char="4136">non-committal</TOKEN>
+<TOKEN id="token-27-20" pos="word" morph="none" start_char="4138" end_char="4139">on</TOKEN>
+<TOKEN id="token-27-21" pos="word" morph="none" start_char="4141" end_char="4148">possibly</TOKEN>
+<TOKEN id="token-27-22" pos="word" morph="none" start_char="4150" end_char="4156">setting</TOKEN>
+<TOKEN id="token-27-23" pos="word" morph="none" start_char="4158" end_char="4159">up</TOKEN>
+<TOKEN id="token-27-24" pos="word" morph="none" start_char="4161" end_char="4163">the</TOKEN>
+<TOKEN id="token-27-25" pos="unknown" morph="none" start_char="4165" end_char="4167">U.S</TOKEN>
+<TOKEN id="token-27-26" pos="punct" morph="none" start_char="4168" end_char="4168">.</TOKEN>
+<TOKEN id="token-27-27" pos="word" morph="none" start_char="4170" end_char="4177">Terminal</TOKEN>
+<TOKEN id="token-27-28" pos="word" morph="none" start_char="4179" end_char="4182">High</TOKEN>
+<TOKEN id="token-27-29" pos="word" morph="none" start_char="4184" end_char="4191">Altitude</TOKEN>
+<TOKEN id="token-27-30" pos="word" morph="none" start_char="4193" end_char="4196">Area</TOKEN>
+<TOKEN id="token-27-31" pos="word" morph="none" start_char="4198" end_char="4204">Defense</TOKEN>
+<TOKEN id="token-27-32" pos="punct" morph="none" start_char="4206" end_char="4206">[</TOKEN>
+<TOKEN id="token-27-33" pos="word" morph="none" start_char="4207" end_char="4211">THAAD</TOKEN>
+<TOKEN id="token-27-34" pos="punct" morph="none" start_char="4212" end_char="4212">]</TOKEN>
+<TOKEN id="token-27-35" pos="word" morph="none" start_char="4214" end_char="4219">system</TOKEN>
+<TOKEN id="token-27-36" pos="word" morph="none" start_char="4221" end_char="4222">in</TOKEN>
+<TOKEN id="token-27-37" pos="word" morph="none" start_char="4224" end_char="4228">Korea</TOKEN>
+<TOKEN id="token-27-38" pos="punct" morph="none" start_char="4229" end_char="4229">.</TOKEN>
+</SEG>
+<SEG id="segment-28" start_char="4231" end_char="4359">
+<ORIGINAL_TEXT>Beijing reportedly opposes the THAAD deployment in the region because it could be used potentially to intercept Chinese missiles.</ORIGINAL_TEXT>
+<TOKEN id="token-28-0" pos="word" morph="none" start_char="4231" end_char="4237">Beijing</TOKEN>
+<TOKEN id="token-28-1" pos="word" morph="none" start_char="4239" end_char="4248">reportedly</TOKEN>
+<TOKEN id="token-28-2" pos="word" morph="none" start_char="4250" end_char="4256">opposes</TOKEN>
+<TOKEN id="token-28-3" pos="word" morph="none" start_char="4258" end_char="4260">the</TOKEN>
+<TOKEN id="token-28-4" pos="word" morph="none" start_char="4262" end_char="4266">THAAD</TOKEN>
+<TOKEN id="token-28-5" pos="word" morph="none" start_char="4268" end_char="4277">deployment</TOKEN>
+<TOKEN id="token-28-6" pos="word" morph="none" start_char="4279" end_char="4280">in</TOKEN>
+<TOKEN id="token-28-7" pos="word" morph="none" start_char="4282" end_char="4284">the</TOKEN>
+<TOKEN id="token-28-8" pos="word" morph="none" start_char="4286" end_char="4291">region</TOKEN>
+<TOKEN id="token-28-9" pos="word" morph="none" start_char="4293" end_char="4299">because</TOKEN>
+<TOKEN id="token-28-10" pos="word" morph="none" start_char="4301" end_char="4302">it</TOKEN>
+<TOKEN id="token-28-11" pos="word" morph="none" start_char="4304" end_char="4308">could</TOKEN>
+<TOKEN id="token-28-12" pos="word" morph="none" start_char="4310" end_char="4311">be</TOKEN>
+<TOKEN id="token-28-13" pos="word" morph="none" start_char="4313" end_char="4316">used</TOKEN>
+<TOKEN id="token-28-14" pos="word" morph="none" start_char="4318" end_char="4328">potentially</TOKEN>
+<TOKEN id="token-28-15" pos="word" morph="none" start_char="4330" end_char="4331">to</TOKEN>
+<TOKEN id="token-28-16" pos="word" morph="none" start_char="4333" end_char="4341">intercept</TOKEN>
+<TOKEN id="token-28-17" pos="word" morph="none" start_char="4343" end_char="4349">Chinese</TOKEN>
+<TOKEN id="token-28-18" pos="word" morph="none" start_char="4351" end_char="4358">missiles</TOKEN>
+<TOKEN id="token-28-19" pos="punct" morph="none" start_char="4359" end_char="4359">.</TOKEN>
+</SEG>
+<SEG id="segment-29" start_char="4362" end_char="4520">
+<ORIGINAL_TEXT>Park also called on the South Korean parliament to pass a controversial anti-terrorism act to prevent North Korean cyber hacks and attacks by extremist groups.</ORIGINAL_TEXT>
+<TOKEN id="token-29-0" pos="word" morph="none" start_char="4362" end_char="4365">Park</TOKEN>
+<TOKEN id="token-29-1" pos="word" morph="none" start_char="4367" end_char="4370">also</TOKEN>
+<TOKEN id="token-29-2" pos="word" morph="none" start_char="4372" end_char="4377">called</TOKEN>
+<TOKEN id="token-29-3" pos="word" morph="none" start_char="4379" end_char="4380">on</TOKEN>
+<TOKEN id="token-29-4" pos="word" morph="none" start_char="4382" end_char="4384">the</TOKEN>
+<TOKEN id="token-29-5" pos="word" morph="none" start_char="4386" end_char="4390">South</TOKEN>
+<TOKEN id="token-29-6" pos="word" morph="none" start_char="4392" end_char="4397">Korean</TOKEN>
+<TOKEN id="token-29-7" pos="word" morph="none" start_char="4399" end_char="4408">parliament</TOKEN>
+<TOKEN id="token-29-8" pos="word" morph="none" start_char="4410" end_char="4411">to</TOKEN>
+<TOKEN id="token-29-9" pos="word" morph="none" start_char="4413" end_char="4416">pass</TOKEN>
+<TOKEN id="token-29-10" pos="word" morph="none" start_char="4418" end_char="4418">a</TOKEN>
+<TOKEN id="token-29-11" pos="word" morph="none" start_char="4420" end_char="4432">controversial</TOKEN>
+<TOKEN id="token-29-12" pos="unknown" morph="none" start_char="4434" end_char="4447">anti-terrorism</TOKEN>
+<TOKEN id="token-29-13" pos="word" morph="none" start_char="4449" end_char="4451">act</TOKEN>
+<TOKEN id="token-29-14" pos="word" morph="none" start_char="4453" end_char="4454">to</TOKEN>
+<TOKEN id="token-29-15" pos="word" morph="none" start_char="4456" end_char="4462">prevent</TOKEN>
+<TOKEN id="token-29-16" pos="word" morph="none" start_char="4464" end_char="4468">North</TOKEN>
+<TOKEN id="token-29-17" pos="word" morph="none" start_char="4470" end_char="4475">Korean</TOKEN>
+<TOKEN id="token-29-18" pos="word" morph="none" start_char="4477" end_char="4481">cyber</TOKEN>
+<TOKEN id="token-29-19" pos="word" morph="none" start_char="4483" end_char="4487">hacks</TOKEN>
+<TOKEN id="token-29-20" pos="word" morph="none" start_char="4489" end_char="4491">and</TOKEN>
+<TOKEN id="token-29-21" pos="word" morph="none" start_char="4493" end_char="4499">attacks</TOKEN>
+<TOKEN id="token-29-22" pos="word" morph="none" start_char="4501" end_char="4502">by</TOKEN>
+<TOKEN id="token-29-23" pos="word" morph="none" start_char="4504" end_char="4512">extremist</TOKEN>
+<TOKEN id="token-29-24" pos="word" morph="none" start_char="4514" end_char="4519">groups</TOKEN>
+<TOKEN id="token-29-25" pos="punct" morph="none" start_char="4520" end_char="4520">.</TOKEN>
+</SEG>
+<SEG id="segment-30" start_char="4522" end_char="4629">
+<ORIGINAL_TEXT>Critics say the measure can be too easily be used to crack down on civil liberties and political opposition.</ORIGINAL_TEXT>
+<TOKEN id="token-30-0" pos="word" morph="none" start_char="4522" end_char="4528">Critics</TOKEN>
+<TOKEN id="token-30-1" pos="word" morph="none" start_char="4530" end_char="4532">say</TOKEN>
+<TOKEN id="token-30-2" pos="word" morph="none" start_char="4534" end_char="4536">the</TOKEN>
+<TOKEN id="token-30-3" pos="word" morph="none" start_char="4538" end_char="4544">measure</TOKEN>
+<TOKEN id="token-30-4" pos="word" morph="none" start_char="4546" end_char="4548">can</TOKEN>
+<TOKEN id="token-30-5" pos="word" morph="none" start_char="4550" end_char="4551">be</TOKEN>
+<TOKEN id="token-30-6" pos="word" morph="none" start_char="4553" end_char="4555">too</TOKEN>
+<TOKEN id="token-30-7" pos="word" morph="none" start_char="4557" end_char="4562">easily</TOKEN>
+<TOKEN id="token-30-8" pos="word" morph="none" start_char="4564" end_char="4565">be</TOKEN>
+<TOKEN id="token-30-9" pos="word" morph="none" start_char="4567" end_char="4570">used</TOKEN>
+<TOKEN id="token-30-10" pos="word" morph="none" start_char="4572" end_char="4573">to</TOKEN>
+<TOKEN id="token-30-11" pos="word" morph="none" start_char="4575" end_char="4579">crack</TOKEN>
+<TOKEN id="token-30-12" pos="word" morph="none" start_char="4581" end_char="4584">down</TOKEN>
+<TOKEN id="token-30-13" pos="word" morph="none" start_char="4586" end_char="4587">on</TOKEN>
+<TOKEN id="token-30-14" pos="word" morph="none" start_char="4589" end_char="4593">civil</TOKEN>
+<TOKEN id="token-30-15" pos="word" morph="none" start_char="4595" end_char="4603">liberties</TOKEN>
+<TOKEN id="token-30-16" pos="word" morph="none" start_char="4605" end_char="4607">and</TOKEN>
+<TOKEN id="token-30-17" pos="word" morph="none" start_char="4609" end_char="4617">political</TOKEN>
+<TOKEN id="token-30-18" pos="word" morph="none" start_char="4619" end_char="4628">opposition</TOKEN>
+<TOKEN id="token-30-19" pos="punct" morph="none" start_char="4629" end_char="4629">.</TOKEN>
+</SEG>
+<SEG id="segment-31" start_char="4632" end_char="4643">
+<ORIGINAL_TEXT>US sanctions</ORIGINAL_TEXT>
+<TOKEN id="token-31-0" pos="word" morph="none" start_char="4632" end_char="4633">US</TOKEN>
+<TOKEN id="token-31-1" pos="word" morph="none" start_char="4635" end_char="4643">sanctions</TOKEN>
+</SEG>
+<SEG id="segment-32" start_char="4646" end_char="4968">
+<ORIGINAL_TEXT>The U.S. House of Representatives voted nearly unanimously on Tuesday to pass legislation that would broaden unilateral sanctions that would empower the president to seize the assets of North Koreans involved in illicit activities and to sanction banks from other countries that do business with the Kim Jong Un government.</ORIGINAL_TEXT>
+<TOKEN id="token-32-0" pos="word" morph="none" start_char="4646" end_char="4648">The</TOKEN>
+<TOKEN id="token-32-1" pos="unknown" morph="none" start_char="4650" end_char="4652">U.S</TOKEN>
+<TOKEN id="token-32-2" pos="punct" morph="none" start_char="4653" end_char="4653">.</TOKEN>
+<TOKEN id="token-32-3" pos="word" morph="none" start_char="4655" end_char="4659">House</TOKEN>
+<TOKEN id="token-32-4" pos="word" morph="none" start_char="4661" end_char="4662">of</TOKEN>
+<TOKEN id="token-32-5" pos="word" morph="none" start_char="4664" end_char="4678">Representatives</TOKEN>
+<TOKEN id="token-32-6" pos="word" morph="none" start_char="4680" end_char="4684">voted</TOKEN>
+<TOKEN id="token-32-7" pos="word" morph="none" start_char="4686" end_char="4691">nearly</TOKEN>
+<TOKEN id="token-32-8" pos="word" morph="none" start_char="4693" end_char="4703">unanimously</TOKEN>
+<TOKEN id="token-32-9" pos="word" morph="none" start_char="4705" end_char="4706">on</TOKEN>
+<TOKEN id="token-32-10" pos="word" morph="none" start_char="4708" end_char="4714">Tuesday</TOKEN>
+<TOKEN id="token-32-11" pos="word" morph="none" start_char="4716" end_char="4717">to</TOKEN>
+<TOKEN id="token-32-12" pos="word" morph="none" start_char="4719" end_char="4722">pass</TOKEN>
+<TOKEN id="token-32-13" pos="word" morph="none" start_char="4724" end_char="4734">legislation</TOKEN>
+<TOKEN id="token-32-14" pos="word" morph="none" start_char="4736" end_char="4739">that</TOKEN>
+<TOKEN id="token-32-15" pos="word" morph="none" start_char="4741" end_char="4745">would</TOKEN>
+<TOKEN id="token-32-16" pos="word" morph="none" start_char="4747" end_char="4753">broaden</TOKEN>
+<TOKEN id="token-32-17" pos="word" morph="none" start_char="4755" end_char="4764">unilateral</TOKEN>
+<TOKEN id="token-32-18" pos="word" morph="none" start_char="4766" end_char="4774">sanctions</TOKEN>
+<TOKEN id="token-32-19" pos="word" morph="none" start_char="4776" end_char="4779">that</TOKEN>
+<TOKEN id="token-32-20" pos="word" morph="none" start_char="4781" end_char="4785">would</TOKEN>
+<TOKEN id="token-32-21" pos="word" morph="none" start_char="4787" end_char="4793">empower</TOKEN>
+<TOKEN id="token-32-22" pos="word" morph="none" start_char="4795" end_char="4797">the</TOKEN>
+<TOKEN id="token-32-23" pos="word" morph="none" start_char="4799" end_char="4807">president</TOKEN>
+<TOKEN id="token-32-24" pos="word" morph="none" start_char="4809" end_char="4810">to</TOKEN>
+<TOKEN id="token-32-25" pos="word" morph="none" start_char="4812" end_char="4816">seize</TOKEN>
+<TOKEN id="token-32-26" pos="word" morph="none" start_char="4818" end_char="4820">the</TOKEN>
+<TOKEN id="token-32-27" pos="word" morph="none" start_char="4822" end_char="4827">assets</TOKEN>
+<TOKEN id="token-32-28" pos="word" morph="none" start_char="4829" end_char="4830">of</TOKEN>
+<TOKEN id="token-32-29" pos="word" morph="none" start_char="4832" end_char="4836">North</TOKEN>
+<TOKEN id="token-32-30" pos="word" morph="none" start_char="4838" end_char="4844">Koreans</TOKEN>
+<TOKEN id="token-32-31" pos="word" morph="none" start_char="4846" end_char="4853">involved</TOKEN>
+<TOKEN id="token-32-32" pos="word" morph="none" start_char="4855" end_char="4856">in</TOKEN>
+<TOKEN id="token-32-33" pos="word" morph="none" start_char="4858" end_char="4864">illicit</TOKEN>
+<TOKEN id="token-32-34" pos="word" morph="none" start_char="4866" end_char="4875">activities</TOKEN>
+<TOKEN id="token-32-35" pos="word" morph="none" start_char="4877" end_char="4879">and</TOKEN>
+<TOKEN id="token-32-36" pos="word" morph="none" start_char="4881" end_char="4882">to</TOKEN>
+<TOKEN id="token-32-37" pos="word" morph="none" start_char="4884" end_char="4891">sanction</TOKEN>
+<TOKEN id="token-32-38" pos="word" morph="none" start_char="4893" end_char="4897">banks</TOKEN>
+<TOKEN id="token-32-39" pos="word" morph="none" start_char="4899" end_char="4902">from</TOKEN>
+<TOKEN id="token-32-40" pos="word" morph="none" start_char="4904" end_char="4908">other</TOKEN>
+<TOKEN id="token-32-41" pos="word" morph="none" start_char="4910" end_char="4918">countries</TOKEN>
+<TOKEN id="token-32-42" pos="word" morph="none" start_char="4920" end_char="4923">that</TOKEN>
+<TOKEN id="token-32-43" pos="word" morph="none" start_char="4925" end_char="4926">do</TOKEN>
+<TOKEN id="token-32-44" pos="word" morph="none" start_char="4928" end_char="4935">business</TOKEN>
+<TOKEN id="token-32-45" pos="word" morph="none" start_char="4937" end_char="4940">with</TOKEN>
+<TOKEN id="token-32-46" pos="word" morph="none" start_char="4942" end_char="4944">the</TOKEN>
+<TOKEN id="token-32-47" pos="word" morph="none" start_char="4946" end_char="4948">Kim</TOKEN>
+<TOKEN id="token-32-48" pos="word" morph="none" start_char="4950" end_char="4953">Jong</TOKEN>
+<TOKEN id="token-32-49" pos="word" morph="none" start_char="4955" end_char="4956">Un</TOKEN>
+<TOKEN id="token-32-50" pos="word" morph="none" start_char="4958" end_char="4967">government</TOKEN>
+<TOKEN id="token-32-51" pos="punct" morph="none" start_char="4968" end_char="4968">.</TOKEN>
+</SEG>
+<SEG id="segment-33" start_char="4971" end_char="5058">
+<ORIGINAL_TEXT>The measure will likely also find strong support in the Senate and from President Obama.</ORIGINAL_TEXT>
+<TOKEN id="token-33-0" pos="word" morph="none" start_char="4971" end_char="4973">The</TOKEN>
+<TOKEN id="token-33-1" pos="word" morph="none" start_char="4975" end_char="4981">measure</TOKEN>
+<TOKEN id="token-33-2" pos="word" morph="none" start_char="4983" end_char="4986">will</TOKEN>
+<TOKEN id="token-33-3" pos="word" morph="none" start_char="4988" end_char="4993">likely</TOKEN>
+<TOKEN id="token-33-4" pos="word" morph="none" start_char="4995" end_char="4998">also</TOKEN>
+<TOKEN id="token-33-5" pos="word" morph="none" start_char="5000" end_char="5003">find</TOKEN>
+<TOKEN id="token-33-6" pos="word" morph="none" start_char="5005" end_char="5010">strong</TOKEN>
+<TOKEN id="token-33-7" pos="word" morph="none" start_char="5012" end_char="5018">support</TOKEN>
+<TOKEN id="token-33-8" pos="word" morph="none" start_char="5020" end_char="5021">in</TOKEN>
+<TOKEN id="token-33-9" pos="word" morph="none" start_char="5023" end_char="5025">the</TOKEN>
+<TOKEN id="token-33-10" pos="word" morph="none" start_char="5027" end_char="5032">Senate</TOKEN>
+<TOKEN id="token-33-11" pos="word" morph="none" start_char="5034" end_char="5036">and</TOKEN>
+<TOKEN id="token-33-12" pos="word" morph="none" start_char="5038" end_char="5041">from</TOKEN>
+<TOKEN id="token-33-13" pos="word" morph="none" start_char="5043" end_char="5051">President</TOKEN>
+<TOKEN id="token-33-14" pos="word" morph="none" start_char="5053" end_char="5057">Obama</TOKEN>
+<TOKEN id="token-33-15" pos="punct" morph="none" start_char="5058" end_char="5058">.</TOKEN>
+</SEG>
+<SEG id="segment-34" start_char="5061" end_char="5185">
+<ORIGINAL_TEXT>But North Korea currently has no real access to U.S. banks and its leadership has survived international sanctions for years.</ORIGINAL_TEXT>
+<TOKEN id="token-34-0" pos="word" morph="none" start_char="5061" end_char="5063">But</TOKEN>
+<TOKEN id="token-34-1" pos="word" morph="none" start_char="5065" end_char="5069">North</TOKEN>
+<TOKEN id="token-34-2" pos="word" morph="none" start_char="5071" end_char="5075">Korea</TOKEN>
+<TOKEN id="token-34-3" pos="word" morph="none" start_char="5077" end_char="5085">currently</TOKEN>
+<TOKEN id="token-34-4" pos="word" morph="none" start_char="5087" end_char="5089">has</TOKEN>
+<TOKEN id="token-34-5" pos="word" morph="none" start_char="5091" end_char="5092">no</TOKEN>
+<TOKEN id="token-34-6" pos="word" morph="none" start_char="5094" end_char="5097">real</TOKEN>
+<TOKEN id="token-34-7" pos="word" morph="none" start_char="5099" end_char="5104">access</TOKEN>
+<TOKEN id="token-34-8" pos="word" morph="none" start_char="5106" end_char="5107">to</TOKEN>
+<TOKEN id="token-34-9" pos="unknown" morph="none" start_char="5109" end_char="5111">U.S</TOKEN>
+<TOKEN id="token-34-10" pos="punct" morph="none" start_char="5112" end_char="5112">.</TOKEN>
+<TOKEN id="token-34-11" pos="word" morph="none" start_char="5114" end_char="5118">banks</TOKEN>
+<TOKEN id="token-34-12" pos="word" morph="none" start_char="5120" end_char="5122">and</TOKEN>
+<TOKEN id="token-34-13" pos="word" morph="none" start_char="5124" end_char="5126">its</TOKEN>
+<TOKEN id="token-34-14" pos="word" morph="none" start_char="5128" end_char="5137">leadership</TOKEN>
+<TOKEN id="token-34-15" pos="word" morph="none" start_char="5139" end_char="5141">has</TOKEN>
+<TOKEN id="token-34-16" pos="word" morph="none" start_char="5143" end_char="5150">survived</TOKEN>
+<TOKEN id="token-34-17" pos="word" morph="none" start_char="5152" end_char="5164">international</TOKEN>
+<TOKEN id="token-34-18" pos="word" morph="none" start_char="5166" end_char="5174">sanctions</TOKEN>
+<TOKEN id="token-34-19" pos="word" morph="none" start_char="5176" end_char="5178">for</TOKEN>
+<TOKEN id="token-34-20" pos="word" morph="none" start_char="5180" end_char="5184">years</TOKEN>
+<TOKEN id="token-34-21" pos="punct" morph="none" start_char="5185" end_char="5185">.</TOKEN>
+</SEG>
+<SEG id="segment-35" start_char="5188" end_char="5349">
+<ORIGINAL_TEXT>South Korea halted most trade and assistance programs to the North In 2010 after Seoul accused Pyongyang of sinking a South Korean warship and killing 46 sailors.</ORIGINAL_TEXT>
+<TOKEN id="token-35-0" pos="word" morph="none" start_char="5188" end_char="5192">South</TOKEN>
+<TOKEN id="token-35-1" pos="word" morph="none" start_char="5194" end_char="5198">Korea</TOKEN>
+<TOKEN id="token-35-2" pos="word" morph="none" start_char="5200" end_char="5205">halted</TOKEN>
+<TOKEN id="token-35-3" pos="word" morph="none" start_char="5207" end_char="5210">most</TOKEN>
+<TOKEN id="token-35-4" pos="word" morph="none" start_char="5212" end_char="5216">trade</TOKEN>
+<TOKEN id="token-35-5" pos="word" morph="none" start_char="5218" end_char="5220">and</TOKEN>
+<TOKEN id="token-35-6" pos="word" morph="none" start_char="5222" end_char="5231">assistance</TOKEN>
+<TOKEN id="token-35-7" pos="word" morph="none" start_char="5233" end_char="5240">programs</TOKEN>
+<TOKEN id="token-35-8" pos="word" morph="none" start_char="5242" end_char="5243">to</TOKEN>
+<TOKEN id="token-35-9" pos="word" morph="none" start_char="5245" end_char="5247">the</TOKEN>
+<TOKEN id="token-35-10" pos="word" morph="none" start_char="5249" end_char="5253">North</TOKEN>
+<TOKEN id="token-35-11" pos="word" morph="none" start_char="5255" end_char="5256">In</TOKEN>
+<TOKEN id="token-35-12" pos="word" morph="none" start_char="5258" end_char="5261">2010</TOKEN>
+<TOKEN id="token-35-13" pos="word" morph="none" start_char="5263" end_char="5267">after</TOKEN>
+<TOKEN id="token-35-14" pos="word" morph="none" start_char="5269" end_char="5273">Seoul</TOKEN>
+<TOKEN id="token-35-15" pos="word" morph="none" start_char="5275" end_char="5281">accused</TOKEN>
+<TOKEN id="token-35-16" pos="word" morph="none" start_char="5283" end_char="5291">Pyongyang</TOKEN>
+<TOKEN id="token-35-17" pos="word" morph="none" start_char="5293" end_char="5294">of</TOKEN>
+<TOKEN id="token-35-18" pos="word" morph="none" start_char="5296" end_char="5302">sinking</TOKEN>
+<TOKEN id="token-35-19" pos="word" morph="none" start_char="5304" end_char="5304">a</TOKEN>
+<TOKEN id="token-35-20" pos="word" morph="none" start_char="5306" end_char="5310">South</TOKEN>
+<TOKEN id="token-35-21" pos="word" morph="none" start_char="5312" end_char="5317">Korean</TOKEN>
+<TOKEN id="token-35-22" pos="word" morph="none" start_char="5319" end_char="5325">warship</TOKEN>
+<TOKEN id="token-35-23" pos="word" morph="none" start_char="5327" end_char="5329">and</TOKEN>
+<TOKEN id="token-35-24" pos="word" morph="none" start_char="5331" end_char="5337">killing</TOKEN>
+<TOKEN id="token-35-25" pos="word" morph="none" start_char="5339" end_char="5340">46</TOKEN>
+<TOKEN id="token-35-26" pos="word" morph="none" start_char="5342" end_char="5348">sailors</TOKEN>
+<TOKEN id="token-35-27" pos="punct" morph="none" start_char="5349" end_char="5349">.</TOKEN>
+</SEG>
+<SEG id="segment-36" start_char="5351" end_char="5403">
+<ORIGINAL_TEXT>North Korea has denied any involvement in the attack.</ORIGINAL_TEXT>
+<TOKEN id="token-36-0" pos="word" morph="none" start_char="5351" end_char="5355">North</TOKEN>
+<TOKEN id="token-36-1" pos="word" morph="none" start_char="5357" end_char="5361">Korea</TOKEN>
+<TOKEN id="token-36-2" pos="word" morph="none" start_char="5363" end_char="5365">has</TOKEN>
+<TOKEN id="token-36-3" pos="word" morph="none" start_char="5367" end_char="5372">denied</TOKEN>
+<TOKEN id="token-36-4" pos="word" morph="none" start_char="5374" end_char="5376">any</TOKEN>
+<TOKEN id="token-36-5" pos="word" morph="none" start_char="5378" end_char="5388">involvement</TOKEN>
+<TOKEN id="token-36-6" pos="word" morph="none" start_char="5390" end_char="5391">in</TOKEN>
+<TOKEN id="token-36-7" pos="word" morph="none" start_char="5393" end_char="5395">the</TOKEN>
+<TOKEN id="token-36-8" pos="word" morph="none" start_char="5397" end_char="5402">attack</TOKEN>
+<TOKEN id="token-36-9" pos="punct" morph="none" start_char="5403" end_char="5403">.</TOKEN>
+</SEG>
+<SEG id="segment-37" start_char="5406" end_char="5507">
+<ORIGINAL_TEXT>China supported United Nations sanctions against North Korea in 2013 following its third nuclear test.</ORIGINAL_TEXT>
+<TOKEN id="token-37-0" pos="word" morph="none" start_char="5406" end_char="5410">China</TOKEN>
+<TOKEN id="token-37-1" pos="word" morph="none" start_char="5412" end_char="5420">supported</TOKEN>
+<TOKEN id="token-37-2" pos="word" morph="none" start_char="5422" end_char="5427">United</TOKEN>
+<TOKEN id="token-37-3" pos="word" morph="none" start_char="5429" end_char="5435">Nations</TOKEN>
+<TOKEN id="token-37-4" pos="word" morph="none" start_char="5437" end_char="5445">sanctions</TOKEN>
+<TOKEN id="token-37-5" pos="word" morph="none" start_char="5447" end_char="5453">against</TOKEN>
+<TOKEN id="token-37-6" pos="word" morph="none" start_char="5455" end_char="5459">North</TOKEN>
+<TOKEN id="token-37-7" pos="word" morph="none" start_char="5461" end_char="5465">Korea</TOKEN>
+<TOKEN id="token-37-8" pos="word" morph="none" start_char="5467" end_char="5468">in</TOKEN>
+<TOKEN id="token-37-9" pos="word" morph="none" start_char="5470" end_char="5473">2013</TOKEN>
+<TOKEN id="token-37-10" pos="word" morph="none" start_char="5475" end_char="5483">following</TOKEN>
+<TOKEN id="token-37-11" pos="word" morph="none" start_char="5485" end_char="5487">its</TOKEN>
+<TOKEN id="token-37-12" pos="word" morph="none" start_char="5489" end_char="5493">third</TOKEN>
+<TOKEN id="token-37-13" pos="word" morph="none" start_char="5495" end_char="5501">nuclear</TOKEN>
+<TOKEN id="token-37-14" pos="word" morph="none" start_char="5503" end_char="5506">test</TOKEN>
+<TOKEN id="token-37-15" pos="punct" morph="none" start_char="5507" end_char="5507">.</TOKEN>
+</SEG>
+<SEG id="segment-38" start_char="5510" end_char="5718">
+<ORIGINAL_TEXT>While it may support some further punitive measures after this latest nuclear test, Beijing has been reluctant to back severe sanctions that could cause instability along its border and spark further conflict.</ORIGINAL_TEXT>
+<TOKEN id="token-38-0" pos="word" morph="none" start_char="5510" end_char="5514">While</TOKEN>
+<TOKEN id="token-38-1" pos="word" morph="none" start_char="5516" end_char="5517">it</TOKEN>
+<TOKEN id="token-38-2" pos="word" morph="none" start_char="5519" end_char="5521">may</TOKEN>
+<TOKEN id="token-38-3" pos="word" morph="none" start_char="5523" end_char="5529">support</TOKEN>
+<TOKEN id="token-38-4" pos="word" morph="none" start_char="5531" end_char="5534">some</TOKEN>
+<TOKEN id="token-38-5" pos="word" morph="none" start_char="5536" end_char="5542">further</TOKEN>
+<TOKEN id="token-38-6" pos="word" morph="none" start_char="5544" end_char="5551">punitive</TOKEN>
+<TOKEN id="token-38-7" pos="word" morph="none" start_char="5553" end_char="5560">measures</TOKEN>
+<TOKEN id="token-38-8" pos="word" morph="none" start_char="5562" end_char="5566">after</TOKEN>
+<TOKEN id="token-38-9" pos="word" morph="none" start_char="5568" end_char="5571">this</TOKEN>
+<TOKEN id="token-38-10" pos="word" morph="none" start_char="5573" end_char="5578">latest</TOKEN>
+<TOKEN id="token-38-11" pos="word" morph="none" start_char="5580" end_char="5586">nuclear</TOKEN>
+<TOKEN id="token-38-12" pos="word" morph="none" start_char="5588" end_char="5591">test</TOKEN>
+<TOKEN id="token-38-13" pos="punct" morph="none" start_char="5592" end_char="5592">,</TOKEN>
+<TOKEN id="token-38-14" pos="word" morph="none" start_char="5594" end_char="5600">Beijing</TOKEN>
+<TOKEN id="token-38-15" pos="word" morph="none" start_char="5602" end_char="5604">has</TOKEN>
+<TOKEN id="token-38-16" pos="word" morph="none" start_char="5606" end_char="5609">been</TOKEN>
+<TOKEN id="token-38-17" pos="word" morph="none" start_char="5611" end_char="5619">reluctant</TOKEN>
+<TOKEN id="token-38-18" pos="word" morph="none" start_char="5621" end_char="5622">to</TOKEN>
+<TOKEN id="token-38-19" pos="word" morph="none" start_char="5624" end_char="5627">back</TOKEN>
+<TOKEN id="token-38-20" pos="word" morph="none" start_char="5629" end_char="5634">severe</TOKEN>
+<TOKEN id="token-38-21" pos="word" morph="none" start_char="5636" end_char="5644">sanctions</TOKEN>
+<TOKEN id="token-38-22" pos="word" morph="none" start_char="5646" end_char="5649">that</TOKEN>
+<TOKEN id="token-38-23" pos="word" morph="none" start_char="5651" end_char="5655">could</TOKEN>
+<TOKEN id="token-38-24" pos="word" morph="none" start_char="5657" end_char="5661">cause</TOKEN>
+<TOKEN id="token-38-25" pos="word" morph="none" start_char="5663" end_char="5673">instability</TOKEN>
+<TOKEN id="token-38-26" pos="word" morph="none" start_char="5675" end_char="5679">along</TOKEN>
+<TOKEN id="token-38-27" pos="word" morph="none" start_char="5681" end_char="5683">its</TOKEN>
+<TOKEN id="token-38-28" pos="word" morph="none" start_char="5685" end_char="5690">border</TOKEN>
+<TOKEN id="token-38-29" pos="word" morph="none" start_char="5692" end_char="5694">and</TOKEN>
+<TOKEN id="token-38-30" pos="word" morph="none" start_char="5696" end_char="5700">spark</TOKEN>
+<TOKEN id="token-38-31" pos="word" morph="none" start_char="5702" end_char="5708">further</TOKEN>
+<TOKEN id="token-38-32" pos="word" morph="none" start_char="5710" end_char="5717">conflict</TOKEN>
+<TOKEN id="token-38-33" pos="punct" morph="none" start_char="5718" end_char="5718">.</TOKEN>
+</SEG>
+<SEG id="segment-39" start_char="5721" end_char="5766">
+<ORIGINAL_TEXT>Youmi Kim in Seoul contributed to this report.</ORIGINAL_TEXT>
+<TOKEN id="token-39-0" pos="word" morph="none" start_char="5721" end_char="5725">Youmi</TOKEN>
+<TOKEN id="token-39-1" pos="word" morph="none" start_char="5727" end_char="5729">Kim</TOKEN>
+<TOKEN id="token-39-2" pos="word" morph="none" start_char="5731" end_char="5732">in</TOKEN>
+<TOKEN id="token-39-3" pos="word" morph="none" start_char="5734" end_char="5738">Seoul</TOKEN>
+<TOKEN id="token-39-4" pos="word" morph="none" start_char="5740" end_char="5750">contributed</TOKEN>
+<TOKEN id="token-39-5" pos="word" morph="none" start_char="5752" end_char="5753">to</TOKEN>
+<TOKEN id="token-39-6" pos="word" morph="none" start_char="5755" end_char="5758">this</TOKEN>
+<TOKEN id="token-39-7" pos="word" morph="none" start_char="5760" end_char="5765">report</TOKEN>
+<TOKEN id="token-39-8" pos="punct" morph="none" start_char="5766" end_char="5766">.</TOKEN>
+</SEG>
+</TEXT>
+</DOC>
+</LCTL_TEXT>
