@@ -1,0 +1,570 @@
+{
+    "doc_id": "shiji_sample.txt",
+    "sent_id": "shiji_sample.txt-0",
+    "token_ids": [
+        "shiji_sample.txt:0-1",
+        "shiji_sample.txt:1-2",
+        "shiji_sample.txt:2-3",
+        "shiji_sample.txt:3-4",
+        "shiji_sample.txt:4-5",
+        "shiji_sample.txt:5-6",
+        "shiji_sample.txt:6-7",
+        "shiji_sample.txt:7-8",
+        "shiji_sample.txt:8-9",
+        "shiji_sample.txt:9-10",
+        "shiji_sample.txt:10-11"
+    ],
+    "tokens": [
+        "太史公",
+        "曰",
+        "：",
+        "五帝",
+        "、",
+        "三代",
+        "之",
+        "記",
+        "，",
+        "尚",
+        "矣"
+    ],
+    "graph": {
+        "entities": [
+            [
+                0,
+                1,
+                "PER",
+                "NAM",
+                1.0
+            ]
+        ],
+        "triggers": [],
+        "relations": [],
+        "roles": []
+    }
+}
+{
+    "doc_id": "shiji_sample.txt",
+    "sent_id": "shiji_sample.txt-1",
+    "token_ids": [
+        "shiji_sample.txt:11-12",
+        "shiji_sample.txt:12-13",
+        "shiji_sample.txt:13-14",
+        "shiji_sample.txt:14-15",
+        "shiji_sample.txt:15-16",
+        "shiji_sample.txt:16-17",
+        "shiji_sample.txt:17-18",
+        "shiji_sample.txt:18-19",
+        "shiji_sample.txt:19-20",
+        "shiji_sample.txt:20-21",
+        "shiji_sample.txt:21-22",
+        "shiji_sample.txt:22-23",
+        "shiji_sample.txt:23-24",
+        "shiji_sample.txt:24-25",
+        "shiji_sample.txt:25-26",
+        "shiji_sample.txt:26-27"
+    ],
+    "tokens": [
+        "自",
+        "殷",
+        "以",
+        "前",
+        "諸侯",
+        "不",
+        "可得而",
+        "譜",
+        "，",
+        "周",
+        "以",
+        "來",
+        "乃",
+        "頗",
+        "可",
+        "著"
+    ],
+    "graph": {
+        "entities": [
+            [
+                1,
+                2,
+                "PER",
+                "NAM",
+                1.0
+            ],
+            [
+                4,
+                5,
+                "PER",
+                "NOM",
+                0.9627160830274507
+            ],
+            [
+                9,
+                10,
+                "GPE",
+                "NAM",
+                1.0
+            ]
+        ],
+        "triggers": [],
+        "relations": [],
+        "roles": []
+    }
+}
+{
+    "doc_id": "shiji_sample.txt",
+    "sent_id": "shiji_sample.txt-2",
+    "token_ids": [
+        "shiji_sample.txt:27-28",
+        "shiji_sample.txt:28-29",
+        "shiji_sample.txt:29-30",
+        "shiji_sample.txt:30-31",
+        "shiji_sample.txt:31-32",
+        "shiji_sample.txt:32-33",
+        "shiji_sample.txt:33-34",
+        "shiji_sample.txt:34-35",
+        "shiji_sample.txt:35-36",
+        "shiji_sample.txt:36-37",
+        "shiji_sample.txt:37-38",
+        "shiji_sample.txt:38-39",
+        "shiji_sample.txt:39-40",
+        "shiji_sample.txt:40-41",
+        "shiji_sample.txt:41-42",
+        "shiji_sample.txt:42-43"
+    ],
+    "tokens": [
+        "孔子",
+        "因",
+        "史文",
+        "次",
+        "春",
+        "秋",
+        "，",
+        "紀",
+        "元年",
+        "，",
+        "正時日月",
+        "，",
+        "蓋",
+        "其",
+        "詳",
+        "哉"
+    ],
+    "graph": {
+        "entities": [
+            [
+                0,
+                1,
+                "PER",
+                "NAM",
+                1.0
+            ],
+            [
+                13,
+                14,
+                "PER",
+                "PRO",
+                0.8643167594442336
+            ]
+        ],
+        "triggers": [],
+        "relations": [],
+        "roles": []
+    }
+}
+{
+    "doc_id": "shiji_sample.txt",
+    "sent_id": "shiji_sample.txt-3",
+    "token_ids": [
+        "shiji_sample.txt:43-44",
+        "shiji_sample.txt:44-45",
+        "shiji_sample.txt:45-46",
+        "shiji_sample.txt:46-47",
+        "shiji_sample.txt:47-48",
+        "shiji_sample.txt:48-49",
+        "shiji_sample.txt:49-50",
+        "shiji_sample.txt:50-51",
+        "shiji_sample.txt:51-52",
+        "shiji_sample.txt:52-53",
+        "shiji_sample.txt:53-54",
+        "shiji_sample.txt:54-55",
+        "shiji_sample.txt:55-56",
+        "shiji_sample.txt:56-57",
+        "shiji_sample.txt:57-58",
+        "shiji_sample.txt:58-59",
+        "shiji_sample.txt:59-60",
+        "shiji_sample.txt:60-61",
+        "shiji_sample.txt:61-62",
+        "shiji_sample.txt:62-63",
+        "shiji_sample.txt:63-64"
+    ],
+    "tokens": [
+        "至",
+        "於",
+        "序",
+        "尚書",
+        "則",
+        "略",
+        "，",
+        "無",
+        "年月",
+        "；",
+        "或",
+        "頗",
+        "有",
+        "，",
+        "然",
+        "多",
+        "闕",
+        "，",
+        "不",
+        "可",
+        "錄"
+    ],
+    "graph": {
+        "entities": [],
+        "triggers": [],
+        "relations": [],
+        "roles": []
+    }
+}
+{
+    "doc_id": "shiji_sample.txt",
+    "sent_id": "shiji_sample.txt-4",
+    "token_ids": [
+        "shiji_sample.txt:64-65",
+        "shiji_sample.txt:65-66",
+        "shiji_sample.txt:66-67",
+        "shiji_sample.txt:67-68",
+        "shiji_sample.txt:68-69",
+        "shiji_sample.txt:69-70",
+        "shiji_sample.txt:70-71",
+        "shiji_sample.txt:71-72",
+        "shiji_sample.txt:72-73",
+        "shiji_sample.txt:73-74",
+        "shiji_sample.txt:74-75",
+        "shiji_sample.txt:75-76",
+        "shiji_sample.txt:76-77",
+        "shiji_sample.txt:77-78",
+        "shiji_sample.txt:78-79",
+        "shiji_sample.txt:79-80",
+        "shiji_sample.txt:80-81",
+        "shiji_sample.txt:81-82",
+        "shiji_sample.txt:82-83",
+        "shiji_sample.txt:83-84",
+        "shiji_sample.txt:84-85",
+        "shiji_sample.txt:85-86",
+        "shiji_sample.txt:86-87",
+        "shiji_sample.txt:87-88",
+        "shiji_sample.txt:88-89",
+        "shiji_sample.txt:89-90",
+        "shiji_sample.txt:90-91",
+        "shiji_sample.txt:91-92",
+        "shiji_sample.txt:92-93",
+        "shiji_sample.txt:93-94",
+        "shiji_sample.txt:94-95",
+        "shiji_sample.txt:95-96",
+        "shiji_sample.txt:96-97",
+        "shiji_sample.txt:97-98",
+        "shiji_sample.txt:98-99",
+        "shiji_sample.txt:99-100",
+        "shiji_sample.txt:100-101",
+        "shiji_sample.txt:101-102",
+        "shiji_sample.txt:102-103",
+        "shiji_sample.txt:103-104",
+        "shiji_sample.txt:104-105",
+        "shiji_sample.txt:105-106",
+        "shiji_sample.txt:106-107",
+        "shiji_sample.txt:107-108",
+        "shiji_sample.txt:108-109",
+        "shiji_sample.txt:109-110",
+        "shiji_sample.txt:110-111",
+        "shiji_sample.txt:111-112",
+        "shiji_sample.txt:112-113",
+        "shiji_sample.txt:113-114",
+        "shiji_sample.txt:114-115",
+        "shiji_sample.txt:115-116",
+        "shiji_sample.txt:116-117",
+        "shiji_sample.txt:117-118",
+        "shiji_sample.txt:118-119",
+        "shiji_sample.txt:119-120",
+        "shiji_sample.txt:120-121",
+        "shiji_sample.txt:121-122",
+        "shiji_sample.txt:122-123",
+        "shiji_sample.txt:123-124",
+        "shiji_sample.txt:124-125",
+        "shiji_sample.txt:125-126",
+        "shiji_sample.txt:126-127"
+    ],
+    "tokens": [
+        "六年三月戊申朔",
+        "，",
+        "乙亥",
+        "，",
+        "御史",
+        "臣",
+        "光",
+        "守",
+        "尚書令",
+        "、",
+        "丞",
+        "非",
+        "，",
+        "下御史",
+        "書",
+        "到",
+        "，",
+        "言",
+        "：",
+        "丞相",
+        "臣",
+        "青翟",
+        "、",
+        "御史大夫",
+        "臣",
+        "湯",
+        "、",
+        "太常",
+        "臣",
+        "充",
+        "、",
+        "大行令",
+        "臣",
+        "息",
+        "、",
+        "太子少傅",
+        "臣",
+        "安",
+        "行",
+        "宗正",
+        "事",
+        "昧",
+        "死",
+        "上",
+        "言",
+        "：",
+        "大司馬",
+        "去病",
+        "上",
+        "疏",
+        "曰",
+        "：",
+        "『",
+        "陛下",
+        "過",
+        "聽",
+        "，",
+        "使",
+        "臣",
+        "去病",
+        "待",
+        "罪行",
+        "閒"
+    ],
+    "graph": {
+        "entities": [
+            [
+                4,
+                5,
+                "PER",
+                "NOM",
+                1.0
+            ],
+            [
+                5,
+                6,
+                "PER",
+                "NOM",
+                0.9068905437439619
+            ],
+            [
+                6,
+                7,
+                "PER",
+                "NAM",
+                1.0
+            ],
+            [
+                10,
+                12,
+                "PER",
+                "NOM",
+                0.8952413397278741
+            ],
+            [
+                19,
+                20,
+                "PER",
+                "NOM",
+                1.0
+            ],
+            [
+                20,
+                21,
+                "PER",
+                "NOM",
+                0.8952413397278741
+            ],
+            [
+                23,
+                24,
+                "PER",
+                "NOM",
+                1.0
+            ],
+            [
+                24,
+                25,
+                "PER",
+                "NOM",
+                0.8869697573832503
+            ],
+            [
+                25,
+                26,
+                "PER",
+                "NAM",
+                1.0
+            ],
+            [
+                27,
+                29,
+                "PER",
+                "NOM",
+                0.8869697573832503
+            ],
+            [
+                29,
+                30,
+                "PER",
+                "NAM",
+                1.0
+            ],
+            [
+                31,
+                32,
+                "PER",
+                "NOM",
+                0.8869697573832503
+            ],
+            [
+                32,
+                34,
+                "PER",
+                "NAM",
+                1.0
+            ],
+            [
+                36,
+                37,
+                "PER",
+                "NOM",
+                0.8869697573832503
+            ],
+            [
+                37,
+                39,
+                "PER",
+                "NAM",
+                1.0
+            ],
+            [
+                46,
+                47,
+                "PER",
+                "NOM",
+                0.8869697573832503
+            ],
+            [
+                53,
+                54,
+                "PER",
+                "PRO",
+                1.0
+            ],
+            [
+                58,
+                59,
+                "PER",
+                "NOM",
+                0.9129972447908214
+            ]
+        ],
+        "triggers": [],
+        "relations": [
+            [
+                1,
+                2,
+                "PER-SOC",
+                0.9249173342257876
+            ]
+        ],
+        "roles": []
+    }
+}
+{
+    "doc_id": "shiji_sample.txt",
+    "sent_id": "shiji_sample.txt-5",
+    "token_ids": [
+        "shiji_sample.txt:127-128",
+        "shiji_sample.txt:128-129",
+        "shiji_sample.txt:129-130",
+        "shiji_sample.txt:130-131",
+        "shiji_sample.txt:131-132",
+        "shiji_sample.txt:132-133",
+        "shiji_sample.txt:133-134",
+        "shiji_sample.txt:134-135",
+        "shiji_sample.txt:135-136",
+        "shiji_sample.txt:136-137",
+        "shiji_sample.txt:137-138",
+        "shiji_sample.txt:138-139",
+        "shiji_sample.txt:139-140",
+        "shiji_sample.txt:140-141",
+        "shiji_sample.txt:141-142",
+        "shiji_sample.txt:142-143",
+        "shiji_sample.txt:143-144",
+        "shiji_sample.txt:144-145",
+        "shiji_sample.txt:145-146"
+    ],
+    "tokens": [
+        "臣",
+        "竊",
+        "不",
+        "勝",
+        "犬馬",
+        "心",
+        "，",
+        "昧",
+        "死",
+        "願",
+        "陛下",
+        "詔",
+        "有司",
+        "，",
+        "因",
+        "盛夏吉時",
+        "定",
+        "皇子",
+        "位"
+    ],
+    "graph": {
+        "entities": [
+            [
+                0,
+                1,
+                "PER",
+                "PRO",
+                1.0
+            ],
+            [
+                10,
+                11,
+                "PER",
+                "PRO",
+                0.8715614086557297
+            ]
+        ],
+        "triggers": [],
+        "relations": [],
+        "roles": []
+    }
+}

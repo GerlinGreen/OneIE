@@ -569,15 +569,18 @@ class IEDatasetEval(object):
         self.load_data()
 
     def __len__(self):
+        # raise AssertionError("self.data### ", self.data)
         return len(self.data)
 
     def __getitem__(self, item):
+        # raise AssertionError("self.data[item]### ", self.data[item])
         return self.data[item]
 
     def load_data(self):
         """Load data from file"""
         if self.input_format == 'txt':
             doc_tokens, doc_id = read_txt(self.path, language=self.language)
+            # print("doc_tokens### ", doc_tokens)
         elif self.input_format == 'ltf':
             doc_tokens, doc_id = read_ltf(self.path)
         elif self.input_format == 'json':
@@ -593,13 +596,16 @@ class IEDatasetEval(object):
     def numberize(self, tokenizer):
         data = []
         for i, (sent_id, sent_tokens) in enumerate(self.data):
+            # print("sent_tokens>>>>", sent_tokens)
             tokens = []
             token_ids = []
             pieces = []
             token_lens = []
             for token_text, start_char, end_char in sent_tokens:
+                # print("token_text, start_char, end_char>>>>>>>>>>>>> ", token_text, ", ", start_char, ", ", end_char)
                 token_id = '{}:{}-{}'.format(self.doc_id, start_char, end_char)
                 token_pieces = [p for p in tokenizer.tokenize(token_text) if p]
+                # print("token_pieces>>", token_pieces)
                 if len(token_pieces) == 0:
                     continue
                 tokens.append(token_text)

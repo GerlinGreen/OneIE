@@ -7,7 +7,7 @@ from argparse import ArgumentParser
 
 import torch
 from torch.utils.data import DataLoader
-from transformers import BertTokenizer, BertConfig
+from transformers import BertTokenizer, BertConfig, BertModel
 
 from model import OneIE
 from config import Config
@@ -23,17 +23,20 @@ def load_model(model_path, device=0, gpu=False, beam_size=5):
     print('Loading the model from {}'.format(model_path))
     map_location = 'cuda:{}'.format(device) if gpu else 'cpu'
     state = torch.load(model_path, map_location=map_location)
+    # state = BertModel.from_pretrained(model_path, map_location=map_location, strict=False)
 
     config = state['config']
+    # print("state['config']>> ", config)
     if type(config) is dict:
         config = Config.from_dict(config)
     config.bert_cache_dir = os.path.join(cur_dir, 'bert')
+    # raise AssertionError("Config.from_dict(config)>>", config.to_dict())
     vocabs = state['vocabs']
     valid_patterns = state['valid']
 
     # recover the model
     model = OneIE(config, vocabs, valid_patterns)
-    model.load_state_dict(state['model'])
+    model.load_state_dict(state['model'], strict=False)
     model.beam_size = beam_size
     if gpu:
         model.cuda(device)
@@ -61,6 +64,7 @@ def predict_document(path, model, tokenizer, config, batch_size=20,
     """
     test_set = IEDatasetEval(path, max_length=max_length, gpu=gpu,
                              input_format=input_format, language=language)
+    # print("tokenizer>>>>>>>>> ", tokenizer)
     test_set.numberize(tokenizer)
     # document info
     info = {
@@ -125,7 +129,7 @@ def predict(model_path, input_path, output_path, log_path=None, cs_path=None,
                 language=language)
             # save json format result
             doc_id = doc_info['doc_id']
-            with open(os.path.join(output_path, '{}.json'.format(doc_id)), 'w') as w:
+            with open(os.path.join(output_path, '{}.json'.format(doc_id)), 'w', encoding="utf-8") as w:
                 for sent_id, token_ids, tokens, graph in doc_result:
                     output = {
                         'doc_id': doc_id,
@@ -134,7 +138,7 @@ def predict(model_path, input_path, output_path, log_path=None, cs_path=None,
                         'tokens': tokens,
                         'graph': graph.to_dict()
                     }
-                    w.write(json.dumps(output) + '\n')
+                    w.write(json.dumps(output, indent=4, ensure_ascii=False) + '\n')
             # write doc info
             if log_path:
                 log_writer.write(json.dumps(doc_info) + '\n')

@@ -32,6 +32,9 @@ def get_span_mention_text(tokens, token_ids, start, end):
         token_start, token_end = int(token_start), int(token_end)
         token_start -= start_char
         token_end -= start_char
+        print("TEXT>> ", text)
+        print("len(text)>> ", len(text))
+        print("len(text[:token_start] + token + text[token_end + 1:])>> ", len(text[:token_start] + token + text[token_end + 1:]))
         assert len(text[:token_start] + token + text[token_end + 1:]) == len(text)
         text = text[:token_start] + token + text[token_end + 1:]
     return text, '{}:{}-{}'.format(token_ids[start].split(':')[0],

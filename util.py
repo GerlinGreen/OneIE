@@ -1,9 +1,44 @@
 import os
 import json
 import glob
+# import spacy
+from transformers import pipeline
 import lxml.etree as et
 from nltk import word_tokenize, sent_tokenize
 from copy import deepcopy
+
+
+def chinese_tokenizer_transformers(sentence, 
+    task = "token-classification",
+    model_name = "ckiplab/bert-base-chinese-pos") :
+    """ default use the chinese pos of ckiplab,
+        concatenate continuous token pieces with
+        the same entity type.
+    """
+    token_list = []
+    classifier = pipeline(task, model=model_name)
+    tokens = classifier(sentence)
+    # print("~~~tokens~~~ ", tokens)
+    pre_token = {'entity': '', 
+                'score': 0,
+                'index': 0, 
+                'word': '',
+                'start': 0,
+                'end': 0}
+    tmp_token = ""
+    for token in tokens :
+        if pre_token["entity"] != "" :
+            if token["entity"] == pre_token["entity"] :
+                tmp_token = tmp_token + token["word"]
+            else :
+                token_list.append(tmp_token)
+                tmp_token = token["word"]
+        else :
+            tmp_token = token["word"]
+        pre_token = token
+
+    # raise AssertionError(token_list)
+    return token_list
 
 
 def generate_vocabs(datasets, coref=False,
@@ -148,13 +183,25 @@ def read_txt(path, language='english'):
     doc_id = os.path.basename(path)
     data = open(path, 'r', encoding='utf-8').read()
     data = [s.strip() for s in data.split('\n') if s.strip()]
-    sents = [l for ls in [sent_tokenize(line, language=language) for line in data]
+    sents = [l for ls in [sent_tokenize(line, language="english") for line in data]
              for l in ls]
+    print("\nlanguage>>>", language, "\n")
+    print("sents>>>", sents)
     doc_tokens = []
     offset = 0
     for sent_idx, sent in enumerate(sents):
         sent_id = '{}-{}'.format(doc_id, sent_idx)
-        tokens = word_tokenize(sent)
+        
+        if  language == "chinese" :
+            tokens = chinese_tokenizer_transformers(sent, 
+                        model_name="ckiplab/bert-base-chinese-pos")
+        elif language == "han-chinese" :
+            tokens = chinese_tokenizer_transformers(sent, 
+                        model_name="ckiplab/bert-base-han-chinese-pos")
+        else :
+            tokens = word_tokenize(sent, language=language)
+
+        # raise AssertionError("tokens>>>", tokens)
         tokens = [(token, offset + i, offset + i + 1)
                   for i, token in enumerate(tokens)]
         offset += len(tokens)
