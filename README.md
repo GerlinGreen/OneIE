@@ -2,6 +2,11 @@
 Forked from *OneIE: A Joint Neural Model for Information Extraction with Global Features*
 OneIE v0.4.8
 
+- Sample command -- Predict
+  ```
+  python OneIE/predict.py -m ACE2005/v0.4.8/Chinese/chinese.role.v0.3.mdl -i OneIE/input/ -o OneIE/output/ --lang han-chinese --format txt
+  ```
+
 # Requirements
 
 Python 3.7
